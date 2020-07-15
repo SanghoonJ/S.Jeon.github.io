@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SanghoonJ / Blog"
+title                    : "Sanghoon Jeon / Blog"
 title_separator          : "-"
 name                     : &name "SanghoonJ"
 description              : &description "personal description"
