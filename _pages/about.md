@@ -13,13 +13,11 @@ Sanghoon Jeon has received the B.S. degree in electronic engineering from Kyoung
 ------
 
 ## Research Interests
-======
 Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Embedded Systems, and Cyber-Physical Systems
 
 ------
 
 ## Education
-======
 >2014/03 - 2020/08
 
   * Ph.D. Candidate in Department of information and Communication Engineering, DGIST
@@ -40,7 +38,6 @@ Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Emb
 ------
 
 ## Publications
-======
   1. An Automatic Driving Performance Assessment System for Stroke Drivers by exploiting Pre-trained CNN models 
      Sanghoon Jeon, Joonwoo Son, Myoungouk Park, and Sang Hyuk Son
      IEEE Access, submitted
