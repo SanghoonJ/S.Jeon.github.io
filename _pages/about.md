@@ -10,11 +10,11 @@ redirect_from:
 
 Sanghoon Jeon has received the B.S. degree in electronic engineering from Kyoungpook National University, Republic of Korea in 2012 and the M.S degree from the Department of Information and Communication Engineering, DGIST, Republic of Korea in 2014. I am currently a Ph.D. candidate at DGIST, advised by Prof. Sang Hyuk Son. My research mainly focuses on developing healthcare applications using Wearable Computing and Cyber Physical Systems.
 
-Research Interests
+## Research Interests
 ======
 Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Embedded Systems, and Cyber-Physical Systems
 
-Education
+## Education
 ======
 >2014/03 - 2020/08
 
@@ -33,7 +33,7 @@ Education
   * B.E. in School of Electronic Engineering College of IT Engineering from Kyoungpook National University
   * Major: Information and Communication Engineering
 
-Site-wide configuration
+## Publications
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
