@@ -15,11 +15,8 @@ Sanghoon Jeon has received the B.S. degree in electronic engineering from Kyoung
 Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Embedded Systems, and Cyber-Physical Systems
 
 ## Professional Experience
-_2020/09~current_  
+_2020/03~current_  
   * Postdoctoral Researcher from the  Department of Emergency Medicine, Hanyang University, directed by Prof. Byuk Sung Ko
-
-_2020/03 - 2020/08_  
-  * Senior Researcher from the  Department of Emergency Medicine, Hanyang University, directed by Prof. Byuk Sung Ko
 
 _2015/03 - 2017/08_  
   * Visiting Student Researcher in HumanLab from DGIST directed by Joonwoo Son
