@@ -17,18 +17,23 @@ Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Emb
 
 ## Education
 >2014/03 - 2020/08<br>
+
   * Ph.D. Candidate in Department of information and Communication Engineering, DGIST
   * Dissertation: "AI-based Human-in-the-loop Cyber Physical Systems in Healthcare Applications"
   * Advisor: Sang Hyuk Son
 
 >2012/03 - 2014/02<br>
+
   * M.E. in Department of Information and Communication Engineering, DGIST
   * Master's Thesis: "Development of Rehabilitation Applications by Using Wearable Sensors"
   * Co-Advisors: Taejoon Park and Sang Hyuk Son
 
 >2006/03 - 2012/02<br>
+
   * B.E. in School of Electronic Engineering College of IT Engineering from Kyoungpook National University
   * Major: Information and Communication Engineering
+
+## Professional Experience
 
 
 ## Publications
@@ -36,21 +41,21 @@ Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Emb
 
   1. **An Automatic Driving Performance Assessment System for Stroke Drivers by exploiting Pre-trained CNN models**<br>
      Sanghoon Jeon, Joonwoo Son, Myoungouk Park, and Sang Hyuk Son
-     IEEE Access, submitted
+     _IEEE Access, submitted_
 
 >2019
 
   2. **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework**<br>
      Sanghoon Jeon, Taejoon Park, Anand Paul, Yang-Soo Lee, and Sang Hyuk Son
-     IEEE Access, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  Top 20%)
+     _IEEE Access, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  Top 20%)_
 
   3. **Demo: Automatic Assessment Framework for Range of Motion Test using Wearable Device and Smartphone**<br>
      Sanghoon Jeon, Yang-Soo Lee, and Sang Hyuk Son
-     The 17th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys), Seoul, Republic of Korea, June 2019
+     _The 17th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys), Seoul, Republic of Korea, June 2019_
 
   4. **Early Detection of Wake-up Stroke using Wearable Sensors: Preliminary Study**<br>
      Yang-Soo Lee and Sanghoon Jeon
-     The 4th International Brain Technology Conference (BrainTech), Tel Aviv, Israel, March 2019
+     _The 4th International Brain Technology Conference (BrainTech), Tel Aviv, Israel, March 2019_
 
 ## Selected Projects
 ------
