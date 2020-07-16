@@ -10,32 +10,26 @@ redirect_from:
 
 Sanghoon Jeon has received the B.S. degree in electronic engineering from Kyoungpook National University, Republic of Korea in 2012 and the M.S degree from the Department of Information and Communication Engineering, DGIST, Republic of Korea in 2014. I am currently a Ph.D. candidate at DGIST, advised by Prof. Sang Hyuk Son. My research mainly focuses on developing healthcare applications using Wearable Computing and Cyber Physical Systems.
 
-------
 
 ## Research Interests
 Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Embedded Systems, and Cyber-Physical Systems
 
-------
 
 ## Education
->2014/03 - 2020/08
-
+>2014/03 - 2020/08;
   * Ph.D. Candidate in Department of information and Communication Engineering, DGIST
   * Dissertation: "AI-based Human-in-the-loop Cyber Physical Systems in Healthcare Applications"
   * Advisor: Sang Hyuk Son
 
->2012/03 - 2014/02
-
+>2012/03 - 2014/02;
   * M.E. in Department of Information and Communication Engineering, DGIST
   * Master's Thesis: "Development of Rehabilitation Applications by Using Wearable Sensors"
   * Co-Advisors: Taejoon Park and Sang Hyuk Son
 
->2006/03 - 2012/02
-
+>2006/03 - 2012/02;
   * B.E. in School of Electronic Engineering College of IT Engineering from Kyoungpook National University
   * Major: Information and Communication Engineering
 
-------
 
 ## Publications
 >2020
