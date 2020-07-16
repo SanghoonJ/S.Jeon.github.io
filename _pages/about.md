@@ -16,19 +16,17 @@ Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Emb
 
 
 ## Education
-<pre>>2014/03 - 2020/08<br></pre>
+>2014/03 - 2020/08<br>
   * Ph.D. Candidate in Department of information and Communication Engineering, DGIST
   * Dissertation: "AI-based Human-in-the-loop Cyber Physical Systems in Healthcare Applications"
   * Advisor: Sang Hyuk Son
 
 >2012/03 - 2014/02<br>
-
   * M.E. in Department of Information and Communication Engineering, DGIST
   * Master's Thesis: "Development of Rehabilitation Applications by Using Wearable Sensors"
   * Co-Advisors: Taejoon Park and Sang Hyuk Son
 
 >2006/03 - 2012/02<br>
-
   * B.E. in School of Electronic Engineering College of IT Engineering from Kyoungpook National University
   * Major: Information and Communication Engineering
 
