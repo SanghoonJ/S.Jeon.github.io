@@ -40,15 +40,15 @@ Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Emb
 
 >2019
 
-  2. **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework**
+  2. **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework**;
      Sanghoon Jeon, Taejoon Park, Anand Paul, Yang-Soo Lee, and Sang Hyuk Son
      IEEE Access, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  Top 20%)
 
-  3. **Demo: Automatic Assessment Framework for Range of Motion Test using Wearable Device and Smartphone**
+  3. **Demo: Automatic Assessment Framework for Range of Motion Test using Wearable Device and Smartphone**;
      Sanghoon Jeon, Yang-Soo Lee, and Sang Hyuk Son
      The 17th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys), Seoul, Republic of Korea, June 2019
 
-  4. **Early Detection of Wake-up Stroke using Wearable Sensors: Preliminary Study**
+  4. **Early Detection of Wake-up Stroke using Wearable Sensors: Preliminary Study**;
      Yang-Soo Lee and Sanghoon Jeon
      The 4th International Brain Technology Conference (BrainTech), Tel Aviv, Israel, March 2019
 
