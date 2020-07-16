@@ -14,6 +14,17 @@ Sanghoon Jeon has received the B.S. degree in electronic engineering from Kyoung
 ## Research Interests
 Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Embedded Systems, and Cyber-Physical Systems
 
+## Professional Experience
+>2020/03~current  
+Postdoctoral Researcher from the  Department of Emergency Medicine, Hanyang University, directed by Prof. Byuk Sung Ko
+
+>2015/09.12~18  
+Short-term Visiting in RTCL from University of Michigan directed by Prof. Kang G. Shin
+
+>2015/03 - 2017/08  
+Visiting Student Researcher  in HumanLab from DGIST directed by Joonwoo Son
+
+
 
 ## Education
 >2014/03 - 2020/08
@@ -32,8 +43,6 @@ Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Emb
 
   * B.E. in School of Electronic Engineering College of IT Engineering from Kyoungpook National University
   * Major: Information and Communication Engineering
-
-## Professional Experience
 
 ## Selected Projects
   1. In-sleep stroke detection
