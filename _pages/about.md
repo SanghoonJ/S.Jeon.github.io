@@ -10,9 +10,13 @@ redirect_from:
 
 Sanghoon Jeon has received the B.S. degree in electronic engineering from Kyoungpook National University, Republic of Korea in 2012 and the M.S degree from the Department of Information and Communication Engineering, DGIST, Republic of Korea in 2014. I am currently a Ph.D. candidate at DGIST, advised by Prof. Sang Hyuk Son. My research mainly focuses on developing healthcare applications using Wearable Computing and Cyber Physical Systems.
 
+------
+
 ## Research Interests
 ======
 Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Embedded Systems, and Cyber-Physical Systems
+
+------
 
 ## Education
 ======
@@ -33,8 +37,30 @@ Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Emb
   * B.E. in School of Electronic Engineering College of IT Engineering from Kyoungpook National University
   * Major: Information and Communication Engineering
 
-## Publications
 ------
+
+## Publications
+======
+  1. An Automatic Driving Performance Assessment System for Stroke Drivers by exploiting Pre-trained CNN models 
+     Sanghoon Jeon, Joonwoo Son, Myoungouk Park, and Sang Hyuk Son
+     IEEE Access, submitted
+
+  2. A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework [PDF, Link]
+     Sanghoon Jeon, Taejoon Park, Anand Paul, Yang-Soo Lee, and Sang Hyuk Son
+     IEEE Access, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  Top 20%)
+
+  3. Demo: Automatic Assessment Framework for Range of Motion Test using Wearable Device and Smartphone
+     Sanghoon Jeon, Yang-Soo Lee, and Sang Hyuk Son
+     The 17th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys), Seoul, Republic of Korea, June 2019
+
+  4. Early Detection of Wake-up Stroke using Wearable Sensors: Preliminary Study
+     Yang-Soo Lee and Sanghoon Jeon
+     The 4th International Brain Technology Conference (BrainTech), Tel Aviv, Israel, March 2019
+
+
+
+
+
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
