@@ -35,13 +35,11 @@ Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Emb
 
 ## Publications
 >2020
-
   1. **An Automatic Driving Performance Assessment System for Stroke Drivers by exploiting Pre-trained CNN models**<br>
      Sanghoon Jeon, Joonwoo Son, Myoungouk Park, and Sang Hyuk Son
      _IEEE Access, submitted_
 
 >2019
-
   2. **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework**<br>
      Sanghoon Jeon, Taejoon Park, Anand Paul, Yang-Soo Lee, and Sang Hyuk Son_<br>
      _IEEE Access, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  Top 20%)
