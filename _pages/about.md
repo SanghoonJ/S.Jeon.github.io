@@ -16,31 +16,28 @@ Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Emb
 
 ## Professional Experience
 >2020/03~current  
-Postdoctoral Researcher from the  Department of Emergency Medicine, Hanyang University, directed by Prof. Byuk Sung Ko
+  * Postdoctoral Researcher from the  Department of Emergency Medicine, Hanyang University, directed by Prof. Byuk Sung Ko
 
 >2015/09.12~18  
-Short-term Visiting in RTCL from University of Michigan directed by Prof. Kang G. Shin
+  * Short-term Visiting in RTCL from University of Michigan directed by Prof. Kang G. Shin
 
 >2015/03 - 2017/08  
-Visiting Student Researcher  in HumanLab from DGIST directed by Joonwoo Son
+  * Visiting Student Researcher  in HumanLab from DGIST directed by Joonwoo Son
 
 
 
 ## Education
 >2014/03 - 2020/08
-
   * Ph.D. Candidate in Department of information and Communication Engineering, DGIST
   * Dissertation: "AI-based Human-in-the-loop Cyber Physical Systems in Healthcare Applications"
   * Advisor: Sang Hyuk Son
 
 >2012/03 - 2014/02
-
   * M.E. in Department of Information and Communication Engineering, DGIST
   * Master's Thesis: "Development of Rehabilitation Applications by Using Wearable Sensors"
   * Co-Advisors: Taejoon Park and Sang Hyuk Son
 
 >2006/03 - 2012/02
-
   * B.E. in School of Electronic Engineering College of IT Engineering from Kyoungpook National University
   * Major: Information and Communication Engineering
 
