@@ -49,8 +49,8 @@ _2006/03 - 2012/02_
   * Best paper award in 대한임베디드공학회 추계학술대회, 2015 
   * MobiSys Student Travel Grant, 2019
 
-## Affilation
-  <img src="/images/l33.png" width="50%" height="20%"><br><br>
+## Affilations
+  <img src="/images/l33.png" width="50%" height="20%"><br>
   <img src="/images/l22.png" width="60%" height="20%"><br><br>
   <img src="/images/l11.png" width="60%" height="20%"><br><br>
 
