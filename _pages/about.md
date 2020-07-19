@@ -50,7 +50,7 @@ _2006/03 - 2012/02_
   * MobiSys Student Travel Grant, 2019
 
 ## Affilation
-<img src="/images/l1.png" width="50%" height="20%"> <br>  
-<img src="/images/l2.png" width="50%" height="20%"> <br>
-<img src="/images/l3.png" width="50%" height="20%">
+<img src="/images/l11.png" width="50%" height="20%"> <br>  
+<img src="/images/l22.png" width="50%" height="20%"> <br>
+<img src="/images/l33.png" width="50%" height="20%">
 
