@@ -10,13 +10,13 @@ author_profile: true
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
 * My Information:     
-  * Linkedin(https://www.linkedin.com/in/sanghoon-jeon-0030a1101/)
-  * ResearchGate(https://www.researchgate.net/profile/Sanghoon_Jeon5)
-  * ORCID(https://orcid.org/0000-0001-5636-7555)
-  * Youtube(https://github.com/sanghoonJeon)
-  * Github
-  * Codebender(https://codebender.cc/user/sanghoon)
-  * Publons(https://publons.com/researcher/3681289/sanghoon-jeon/)
+  * [Linkedin](https://www.linkedin.com/in/sanghoon-jeon-0030a1101/)
+  * [ResearchGate](https://www.researchgate.net/profile/Sanghoon_Jeon5)
+  * [ORCID](https://orcid.org/0000-0001-5636-7555)
+  * [Youtube]
+  * [Github]
+  * [Codebender](https://codebender.cc/user/sanghoon)
+  * [Publons](https://publons.com/researcher/3681289/sanghoon-jeon/)
 
 * Links
   * [SCI/SCIE Check](https://mjl.clarivate.com/home)
