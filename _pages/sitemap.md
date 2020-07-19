@@ -14,7 +14,7 @@ A list of all the posts and pages found on the site. For you robots out there is
   * [ResearchGate](https://www.researchgate.net/profile/Sanghoon_Jeon5)
   * [ORCID](https://orcid.org/0000-0001-5636-7555)
   * [Youtube]
-  * [Github]
+  * [Github](https://sanghoonj.github.io/)
   * [Codebender](https://codebender.cc/user/sanghoon)
   * [Publons](https://publons.com/researcher/3681289/sanghoon-jeon/)
 
