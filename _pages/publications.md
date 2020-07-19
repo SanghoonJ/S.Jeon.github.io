@@ -28,24 +28,24 @@ _The 4th International Brain Technology Conference (BrainTech), Tel Aviv, Israel
 
 >2018
 
-  5. Driving-PASS: Automatic Driving Performance Assessment System for Stroke Drivers based on ANN and SVM  [PDF]
+* Driving-PASS: Automatic Driving Performance Assessment System for Stroke Drivers based on ANN and SVM  [PDF]
     Sanghoon Jeon, Joonwoo Son, Myoungouk Park, Bawul Kim, Yongsoon Eun, and Sang Hyuk Son
     International Conference on Control, Automation, Robotics and Vision  (ICARCV), Singapore , Nov. 2018.  
     RISK-Sleep: Real-time Stroke Early Detection System During Sleep Using Wristbands  [PDF]
 
-  6. Sanghoon Jeon, Taejoon Park, Yang-Soo Lee, Haengju Lee, Yongsoon Eun, and Sang Hyuk Son
+* Sanghoon Jeon, Taejoon Park, Yang-Soo Lee, Haengju Lee, Yongsoon Eun, and Sang Hyuk Son
   IEEE International Conference on Systems, Man, and Cybernetics (SMC), Miyajaki, Japan, Oct. 2018  
   Assessment of Route Guidance System Utilizing Turing Movement Specific Link Travel Times  [PDF]
 
-  7. Homin Park, Sanghoon Jeon, Taejoon Park, Byungkyu Brian Park, Junhong Jeon, Youngsoon Eun, and Sang Hyuk Son
+* Homin Park, Sanghoon Jeon, Taejoon Park, Byungkyu Brian Park, Junhong Jeon, Youngsoon Eun, and Sang Hyuk Son
   25th ITS World Congress, Copenhagen, Denmark, Sep. 2018
   Poster Abstract: Sleep Position Management System for Enhancing Sleep Quality using Wearable Devices
 
-  8. Sanghoon Jeon, Anand Paul, Sang Hyuk Son, and Yongsoon Eun
+* Sanghoon Jeon, Anand Paul, Sang Hyuk Son, and Yongsoon Eun
   Adjunct Publication of the 16th ACM Conference on Embedded Networked Sensor Systems (SenSys), Shenzhen, China, Nov. 2018
   Poster Abstract: Biometric Gait Identification for Exercise Reward System using Smart Earring
 
-  9. Sanghoon Jeon, Hee-Jung Yoon, Yang-Soo Lee, Sang Hyuk Son, and Yongsoon Eun
+* Sanghoon Jeon, Hee-Jung Yoon, Yang-Soo Lee, Sang Hyuk Son, and Yongsoon Eun
    Adjunct Publication of the 16th ACM Conference on Embedded Networked Sensor Systems (SenSys), Shenzhen, China, Nov. 2018
 
 >2017
