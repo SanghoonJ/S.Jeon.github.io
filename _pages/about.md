@@ -46,8 +46,8 @@ _2006/03 - 2012/02_
 ## Scholarships & Awards
   * National Science & Technology Scholarship from National Foundation of Korea in Kyoungpook National University <br>
     _B.S., Full-tuition Scholarship for four years_
-  * MobiSys Student Travel Grant, 2019
   * Best paper award in 대한임베디드공학회 추계학술대회, 2015 
+  * MobiSys Student Travel Grant, 2019
 
 ## Affilation
 <img src="/images/l1.png" width="50%" height="20%"> <br>  
