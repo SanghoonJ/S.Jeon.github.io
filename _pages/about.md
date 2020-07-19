@@ -50,7 +50,7 @@ _2006/03 - 2012/02_
   * Best paper award in 대한임베디드공학회 추계학술대회, 2015 
 
 ## Affilations
-<img src="/images/l1.png" width="30%" height="20%"></img>
-<img src="/images/l2.png" width="30%" height="20%"></img>
+<img src="/images/l1.png" width="30%" height="20%"></img><br>
+<img src="/images/l2.png" width="30%" height="20%"></img><br>
 <img src="/images/l3.png" width="27%" height="20%"></img>
 
