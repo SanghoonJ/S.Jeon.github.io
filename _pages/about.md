@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Sanghoon Jeon has received the B.S. degree in electronic engineering from Kyoungpook National University, Republic of Korea in 2012 and the M.S degree from the Department of Information and Communication Engineering, DGIST, Republic of Korea in 2014. I am currently a Ph.D. candidate at DGIST, advised by Prof. Sang Hyuk Son. My research mainly focuses on developing healthcare applications using Wearable Computing and Cyber Physical Systems.
+Sanghoon Jeon has received the B.S. degree in electronic engineering from Kyoungpook National University, Republic of Korea in 2012. He received the M.S and Ph.D. degree from the Department of Information and Communication Engineering, DGIST, Republic of Korea in 2014 and 2020, respectively. I am currently a Post-doctoral Researcher from the department of Emergency Medicine, College of Medicine, Hanyang University, Seoul, Republic of Korea. My research mainly focuses on developing healthcare applications using Wearable Computing and Cyber Physical Systems.
 
 
 ## Research Interests
