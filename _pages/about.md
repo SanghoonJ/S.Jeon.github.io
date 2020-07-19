@@ -50,4 +50,5 @@ _2006/03 - 2012/02_
   * Best paper award in 대한임베디드공학회 추계학술대회, 2015 
 
 ## Affilations
+<img src="/images/l1.png" width="50%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 ![Alt text](/images/l1.png)
