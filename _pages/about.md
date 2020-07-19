@@ -44,7 +44,7 @@ _2006/03 - 2012/02_
   3. Stroke driver automatic assessment
 
 ## Scholarships & Awards
-  * National Science & Technology Scholarship from National Foundation of Korea in Kyoungpook National University 
+  * National Science & Technology Scholarship from National Foundation of Korea in Kyoungpook National University <br>
     B.S., Full-tuition Scholarship for four years
   * MobiSys Student Travel Grant, 2019
   * Best paper award in 대한임베디드공학회 추계학술대회, 2015 
