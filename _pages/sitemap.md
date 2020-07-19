@@ -24,4 +24,4 @@ author_profile: true
   * [ACM SIGCHI Conference Schedule](https://sigchi.org/conferences/upcoming-conferences/)
   * [Research Reality Check](https://sites.google.com/site/jeonggilko/research-reality-check)
   * [IEEE Publication Recommender](https://publication-recommender.ieee.org/home)
-  * [Github Markdown Editing](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+  * [Github Markdown Edit](https://gist.github.com/ihoneymon/652be052a0727ad59601)
