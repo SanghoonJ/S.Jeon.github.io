@@ -52,5 +52,5 @@ _2006/03 - 2012/02_
 ## Affilations
 <img src="/images/l1.png" width="30%" height="20%"></img>
 <img src="/images/l2.png" width="30%" height="20%"></img>
-<img src="/images/l3.png" width="30%" height="50%"></img>
+<img src="/images/l3.png" width="25%" height="20%"></img>
 
