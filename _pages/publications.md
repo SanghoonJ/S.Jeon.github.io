@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Publications and Patents"
 permalink: /publications/
 author_profile: true
 ---
