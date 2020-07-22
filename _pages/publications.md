@@ -10,7 +10,7 @@ author_profile: true
 
 * **An Automatic Driving Performance Assessment System for Stroke Drivers by exploiting Pre-trained CNN models**<br>
 Sanghoon Jeon, Joonwoo Son, Myoungouk Park, and Sang Hyuk Son<br>
-_IEEE Access, submitted_
+_IEEE Access, revised_
 
 >2019
 
