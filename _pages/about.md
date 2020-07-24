@@ -16,10 +16,10 @@ Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Emb
 
 ## Professional Experience
 _2020/03~current_  
-  * Postdoctoral Researcher from the  Department of Emergency Medicine, Hanyang University, directed by Prof. Byuk Sung Ko
+  * **A Postdoctoral Researcher** from the  Department of Emergency Medicine, Hanyang University, directed by Prof. Byuk Sung Ko
 
 _2015/03 - 2017/08_  
-  * Visiting Student Researcher in HumanLab from DGIST directed by Joonwoo Son
+  * **A Visiting Student Researcher** in HumanLab from DGIST directed by Joonwoo Son
 
 
 
