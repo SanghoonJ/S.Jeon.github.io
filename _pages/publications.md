@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-### GitLab Orange Heading
-{: .gitlab-orange}
-
 ## Publications List
 >2020
 
