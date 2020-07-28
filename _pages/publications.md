@@ -6,14 +6,11 @@ author_profile: true
 ---
 
 
-<style>
-.blue {
-  color: blue;
-}
-.bold {
-  font-weight: bold;
-}
-</style>
+```ruby
+def hello
+   puts "Hello world!"
+end
+```
 
 ## Publications List
 >2020
