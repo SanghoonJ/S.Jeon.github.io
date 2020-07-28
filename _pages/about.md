@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+'SMC'18'
+
 Sanghoon Jeon has received the B.E. degree in electronic engineering from Kyoungpook National University, Republic of Korea in 2012. He received the M.E. and Ph.D. degree from the Department of Information and Communication Engineering, DGIST, Republic of Korea in 2014 and 2020, respectively. From Mar. 2020, I am currently a Post-doctoral Researcher from the department of Emergency Medicine, College of Medicine, Hanyang University, Seoul, Republic of Korea. My research mainly focuses on developing healthcare applications using Wearable Computing and Cyber Physical Systems.
 
 
@@ -37,7 +39,7 @@ _2015/03 - 2017/08_
   * **A Visiting Student Researcher** in HumanLab from DGIST directed by Joonwoo Son
 
 ## Selected Projects
-  1. In-sleep stroke detection ( _SMC'18_ ) 'SMC'18'
+  1. In-sleep stroke detection ( _SMC'18_ )
   2. Sleep position tracking system ( _SMC'17, IEEE Access 19'_ )
   3. Stroke driver automatic assessment ( _ICARCV 18', IEEE Access 20'_ )
 
