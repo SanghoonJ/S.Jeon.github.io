@@ -6,11 +6,8 @@ author_profile: true
 ---
 
 
-```ruby
-def hello
-   puts "Hello world!"
-end
-```
+### GitLab Orange Heading
+{: .gitlab-orange}
 
 ## Publications List
 >2020
