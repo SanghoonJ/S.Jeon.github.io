@@ -26,7 +26,7 @@ Although many stroke survivors are not fully capable of driving, they drive agai
 TBU
 
 
-## 5. Wearable Monitoring Device 
+## 5. Smart Brooch Device 
 ***
 TBU
 
