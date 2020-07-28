@@ -36,7 +36,7 @@ _The 4th International Brain Technology Conference (BrainTech), Tel Aviv, Israel
 Sanghoon Jeon, Taejoon Park, Yang-Soo Lee, Haengju Lee, Yongsoon Eun, and Sang Hyuk Son<br>
 _IEEE International Conference on Systems, Man, and Cybernetics (SMC), Miyajaki, Japan, Oct. 2018_
 
-* **Assessment of Route Guidance System Utilizing Turing Movement Specific Link Travel Times**<br>
+* **Assessment of Route Guidance System Utilizing Turing Movement Specific Link Travel Times** `ITSWC'18`<br>
 Homin Park, Sanghoon Jeon, Taejoon Park, Byungkyu Brian Park, Junhong Jeon, Youngsoon Eun, and Sang Hyuk Son<br>
 _25th ITS World Congress, Copenhagen, Denmark, Sep. 2018_
 
