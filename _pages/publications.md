@@ -50,7 +50,7 @@ _Adjunct Publication of the 16th ACM Conference on Embedded Networked Sensor Sys
 
 >2017
 
-* `SMC'18` **SleePS: Sleep Position Tracking System for Screening Sleep Quality by Wristbands**<br>
+* `SMC'17` **SleePS: Sleep Position Tracking System for Screening Sleep Quality by Wristbands**<br>
   Sanghoon Jeon, Anand Paul, Haengju Lee, Yongsoon Eun, and Sang Hyuk Son<br>
 _IEEE International Conference on Systems, Man, and Cybernetics (SMC), Banff, Canada, Oct. 2017_
 
