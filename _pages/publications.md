@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<span style="color:blue">some *This is Blue italic.* text</span>
+
 ## Publications List
 >2020
 
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 * **An Automatic Driving Performance Assessment System for Stroke Drivers by exploiting Pre-trained CNN models** `Journal` <br>
 Sanghoon Jeon, Joonwoo Son, Myoungouk Park, and Sang Hyuk Son<br>
 _IEEE Access, revised_
