@@ -37,9 +37,11 @@ _2015/03 - 2017/08_
   * **A Visiting Student Researcher** in HumanLab from DGIST directed by Joonwoo Son
 
 ## Selected Projects
-  1. In-sleep stroke detection ( _SMC'18_ )
-  2. Sleep position tracking system ( _SMC'17, IEEE Access 19'_ )
-  3. Stroke driver automatic assessment ( _ICARCV 18', IEEE Access 20'_ )
+  1. In-sleep Stroke Early-Detection ( _SMC'18_ )
+  2. Sleep Position Tracking System ( _SMC'17, IEEE Access 19'_ )
+  3. Automatic Stroke Driver Assessment ( _ICARCV 18', IEEE Access 20'_ )
+  4. Smart Infusion Pump
+  5. Wearable Monitoring Device 
 
 ## Scholarships & Awards
   * National Science & Technology Scholarship from National Foundation of Korea in Kyoungpook National University <br>
