@@ -8,13 +8,13 @@ author_profile: true
 ## Publications List
 >2020
 
-* <span style="color:red">`Journal`</span> **An Automatic Driving Performance Assessment System for Stroke Drivers by exploiting Pre-trained CNN models**<br>
+*`Journal` **An Automatic Driving Performance Assessment System for Stroke Drivers by exploiting Pre-trained CNN models**<br>
 Sanghoon Jeon, Joonwoo Son, Myoungouk Park, and Sang Hyuk Son<br>
 _IEEE Access, revised_
 
 >2019
 
-* **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework**<br>
+*`Journal` **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework**<br>
 Sanghoon Jeon, Taejoon Park, Anand Paul, Yang-Soo Lee, and Sang Hyuk Son<br>
 _IEEE Access, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  Top 20%)_
 
