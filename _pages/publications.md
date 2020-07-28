@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Publications List
+***
 >2020
 
 * **An Automatic Driving Performance Assessment System for Stroke Drivers by exploiting Pre-trained CNN models** `SCIE Journal` <br>
@@ -111,11 +112,11 @@ _International Symposium on Embedded Technology (ISET), Daegu, Korea, May 2013_
 _한국정보과학회 유비쿼터스 컴퓨팅과 웹 정보기술 학술심포지움, Daegu, Korea, Dec 2013_
 
 
-***
 
 
 
 ## Patents List
+***
 * **Method and Apparatus for Monitoring and Diagnosing Infectious Disease (감염 질환을 모니터링 및 진단하는 방법 및 장치)**<br>
 Byuk Sung Ko and Sanghoon Jeon<br>
 _KP (대한민국특허청) 10-2020-0055589 , May, 2020_
