@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<strong style="color: red; opacity: 0.80;">My Bold Text, in red color.</strong>
+<span style="color:red">text in red</span>
 
 ## Publications List
 >2020
