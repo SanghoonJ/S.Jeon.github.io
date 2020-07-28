@@ -21,12 +21,12 @@ _2014/03 - 2020/08_
   * Advisor: Sang Hyuk Son
 
 _2012/03 - 2014/02_
-  * Master of Engineering (ME) in Department of Information and Communication Engineering, DGIST
+  * Master of Engineering (M.E.) in Department of Information and Communication Engineering, DGIST
   * Master's Thesis: "Development of Rehabilitation Applications by Using Wearable Sensors"
   * Co-Advisors: Taejoon Park and Sang Hyuk Son
 
 _2006/03 - 2012/02_
-  * Bachelor of Engineering (BE) in School of Electronic Engineering College of IT Engineering from Kyoungpook National University
+  * Bachelor of Engineering (B.E.) in School of Electronic Engineering College of IT Engineering from Kyoungpook National University
   * Major: Information and Communication Engineering
 
 ## Professional Experience
