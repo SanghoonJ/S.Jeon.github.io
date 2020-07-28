@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<font color='red'>test blue color font</font>
+
 ## Publications List
 >2020
 
