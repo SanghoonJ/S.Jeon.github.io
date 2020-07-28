@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<span style="color:red">text in red</span>
-
 ## Publications List
 >2020
 
