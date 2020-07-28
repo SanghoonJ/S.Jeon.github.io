@@ -8,13 +8,13 @@ author_profile: true
 ## Publications List
 >2020
 
-* `Journal` **An Automatic Driving Performance Assessment System for Stroke Drivers by exploiting Pre-trained CNN models**<br>
+* **An Automatic Driving Performance Assessment System for Stroke Drivers by exploiting Pre-trained CNN models**  `Journal`<br>
 Sanghoon Jeon, Joonwoo Son, Myoungouk Park, and Sang Hyuk Son<br>
 _IEEE Access, revised_
 
 >2019
 
-* `Journal` **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework**<br>
+* **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework** `Journal`<br>
 Sanghoon Jeon, Taejoon Park, Anand Paul, Yang-Soo Lee, and Sang Hyuk Son<br>
 _IEEE Access, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  Top 20%)_
 
@@ -28,11 +28,11 @@ _The 4th International Brain Technology Conference (BrainTech), Tel Aviv, Israel
 
 >2018
 
-* `ICARCV'18`**Driving-PASS: Automatic Driving Performance Assessment System for Stroke Drivers based on ANN and SVM**<br>
+* **Driving-PASS: Automatic Driving Performance Assessment System for Stroke Drivers based on ANN and SVM** `ICARCV'18`<br>
     Sanghoon Jeon, Joonwoo Son, Myoungouk Park, Bawul Kim, Yongsoon Eun, and Sang Hyuk Son<br>
     _International Conference on Control, Automation, Robotics and Vision  (ICARCV), Singapore , Nov. 2018._  
 
-* `SMC'18` **RISK-Sleep: Real-time Stroke Early Detection System During Sleep Using Wristbands**<br>
+* **RISK-Sleep: Real-time Stroke Early Detection System During Sleep Using Wristbands** `SMC'18` <br>
 Sanghoon Jeon, Taejoon Park, Yang-Soo Lee, Haengju Lee, Yongsoon Eun, and Sang Hyuk Son<br>
 _IEEE International Conference on Systems, Man, and Cybernetics (SMC), Miyajaki, Japan, Oct. 2018_
 
@@ -50,7 +50,7 @@ _Adjunct Publication of the 16th ACM Conference on Embedded Networked Sensor Sys
 
 >2017
 
-* `SMC'17` **SleePS: Sleep Position Tracking System for Screening Sleep Quality by Wristbands**<br>
+* **SleePS: Sleep Position Tracking System for Screening Sleep Quality by Wristbands** `SMC'17` <br>
   Sanghoon Jeon, Anand Paul, Haengju Lee, Yongsoon Eun, and Sang Hyuk Son<br>
 _IEEE International Conference on Systems, Man, and Cybernetics (SMC), Banff, Canada, Oct. 2017_
 
