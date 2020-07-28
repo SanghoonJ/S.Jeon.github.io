@@ -8,7 +8,7 @@ author_profile: true
 ## Publications List
 >2020
 
-* `Journal` **An Automatic Driving Performance Assessment System for Stroke Drivers by exploiting Pre-trained CNN models**<br>
+* <span style="color:red">`Journal`</span> **An Automatic Driving Performance Assessment System for Stroke Drivers by exploiting Pre-trained CNN models**<br>
 Sanghoon Jeon, Joonwoo Son, Myoungouk Park, and Sang Hyuk Son<br>
 _IEEE Access, revised_
 
