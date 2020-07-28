@@ -25,17 +25,17 @@ _2015/03 - 2017/08_
 
 ## Education
 _2014/03 - 2020/08_
-  * Ph.D. in Department of information and Communication Engineering, DGIST
+  * Doctor of Philosopy (Ph.D.) in Department of information and Communication Engineering, DGIST
   * Dissertation: "AI-based Human-in-the-loop Cyber Physical Systems in Healthcare Applications"
   * Advisor: Sang Hyuk Son
 
 _2012/03 - 2014/02_
-  * M.E. in Department of Information and Communication Engineering, DGIST
+  * Master of Engineering (ME) in Department of Information and Communication Engineering, DGIST
   * Master's Thesis: "Development of Rehabilitation Applications by Using Wearable Sensors"
   * Co-Advisors: Taejoon Park and Sang Hyuk Son
 
 _2006/03 - 2012/02_
-  * B.E. in School of Electronic Engineering College of IT Engineering from Kyoungpook National University
+  * Bachelor of Engineering (BE) in School of Electronic Engineering College of IT Engineering from Kyoungpook National University
   * Major: Information and Communication Engineering
 
 ## Selected Projects
