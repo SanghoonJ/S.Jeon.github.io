@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+This is a paragraph that for some reason we want blue.
+{: .blue}
+
 ## Publications List
 >2020
 
