@@ -7,6 +7,14 @@ author_profile: true
 
 Some Markdown text with <span style="color:blue">some *blue* text</span>.
 <p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+<font color='red'>test blue color font</font>
+// resets
+s { font-style: normal; } //strike-through
+em { font-style: normal; font-weight: bold; } //italic emphasis
+
+// colors
+s { color: green }
+em { color: blue }
 
 ## Publications List
 >2020
