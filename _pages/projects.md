@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 
-## In-sleep Stroke Early-Detection ( _SMC'18_ )
+1. In-sleep Stroke Early-Detection
 
-## Sleep Position Tracking System ( _SMC'17, IEEE Access 19'_ )
+2. Sleep Position Tracking System 
 
-## Automatic Stroke Driver Assessment ( _ICARCV 18', IEEE Access 20'_ )
+3. Automatic Stroke Driver Assessment 
 
-## Smart Infusion Pump
+4. Smart Infusion Pump
 
-## Wearable Monitoring Device 
+5. Wearable Monitoring Device 
 
   
