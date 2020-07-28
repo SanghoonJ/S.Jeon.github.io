@@ -6,8 +6,14 @@ author_profile: true
 ---
 
 
-This is a paragraph that for some reason we want blue.
-{: .blue}
+<style>
+.blue {
+  color: blue;
+}
+.bold {
+  font-weight: bold;
+}
+</style>
 
 ## Publications List
 >2020
