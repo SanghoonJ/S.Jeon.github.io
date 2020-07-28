@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-    <i class="noshow" style="display:none;" id="tab-3">
-                        <button class="btn btn-default btn-lg btn-block" style="display: block; width: 100%;" onclick="javascript:$('#tab-3-content').toggle();javascript:$('#tab-3-title').toggle();">News <span class="glyphicon glyphicon-chevron-right"></span></button>
-                    </i>
-                    
-<li><span class="label label-info">Questionnaires</span></li>
-
 ## Publications List
 >2020
 
