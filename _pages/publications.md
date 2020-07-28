@@ -110,7 +110,10 @@ _International Symposium on Embedded Technology (ISET), Daegu, Korea, May 2013_
 전상훈, 박태준, 손상혁<br>
 _한국정보과학회 유비쿼터스 컴퓨팅과 웹 정보기술 학술심포지움, Daegu, Korea, Dec 2013_
 
+
 ***
+
+
 
 ## Patents List
 * **Method and Apparatus for Monitoring and Diagnosing Infectious Disease (감염 질환을 모니터링 및 진단하는 방법 및 장치)**<br>
