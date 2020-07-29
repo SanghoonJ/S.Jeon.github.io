@@ -32,8 +32,7 @@ _2006/03 - 2012/02_
 ## Professional Experience
 _2020/09~current_
   * **A Postdoctoral Researcher** from the Department of Emergency Medicine, Hanyang University, directed by Prof. Byuk Sung Ko
-
-_2020/03~2020/08_
+{_2020/03~2020/08_}
   * A Senior Researcher from the Industry-University Cooperation, Hanyang University
 
 _2015/03 - 2017/08_
