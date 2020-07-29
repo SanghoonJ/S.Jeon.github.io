@@ -32,11 +32,9 @@ _2006/03 - 2012/02_
 ## Professional Experience
 
 _2020/09~current_  
-  * **A Postdoctoral Researcher** from the Department of Emergency Medicine, Hanyang University, directed by Prof. Byuk Sung Ko  
-
+  * **A Postdoctoral Researcher** from the Department of Emergency Medicine, Hanyang University, directed by Prof. Byuk Sung Ko <br/> 
 _2020/03~2020/08_  
-  * A Senior Researcher from the Industry-University Cooperation, Hanyang University  
-
+  * A Senior Researcher from the Industry-University Cooperation, Hanyang University  <br/>
 _2015/03 - 2017/08_  
   * A Visiting Student Researcher in HumanLab from DGIST directed by Joonwoo Son  
 
