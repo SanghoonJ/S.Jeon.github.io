@@ -15,17 +15,17 @@ Sanghoon Jeon has received the B.E. degree in electronic engineering from Kyoung
 Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Embedded Systems, and Cyber-Physical Systems
 
 ## Education
->_2014/03 - 2020/08_
+>_2014/03 - 2020/08_  <br/>
   * Doctor of Philosopy (Ph.D.) in Department of information and Communication Engineering, DGIST
   * Dissertation: "AI-based Human-in-the-loop Cyber Physical Systems in Healthcare Applications"
   * Advisor: Sang Hyuk Son
 
->_2012/03 - 2014/02_
+>_2012/03 - 2014/02_  <br/>
   * Master of Engineering (M.E.) in Department of Information and Communication Engineering, DGIST
   * Master's Thesis: "Development of Rehabilitation Applications by Using Wearable Sensors"
   * Co-Advisors: Taejoon Park and Sang Hyuk Son
 
->_2006/03 - 2012/02_
+>_2006/03 - 2012/02_  <br/>
   * Bachelor of Engineering (B.E.) in School of Electronic Engineering College of IT Engineering from Kyoungpook National University
   * Major: Information and Communication Engineering
 
