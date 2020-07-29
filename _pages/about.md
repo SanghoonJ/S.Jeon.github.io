@@ -30,6 +30,7 @@ _2006/03 - 2012/02_
   * Major: Information and Communication Engineering
 
 ## Professional Experience
+
 _2020/09~current_  
   * **A Postdoctoral Researcher** from the Department of Emergency Medicine, Hanyang University, directed by Prof. Byuk Sung Ko  <br>
 _2020/03~2020/08_  
