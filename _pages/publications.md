@@ -15,7 +15,7 @@ _IEEE Access, revised_
 
 >2019
 
-* **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework** `SCIE Journal` <br>
+* **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework** `SCIE Journal` 'DOI'<br>
 Sanghoon Jeon, Taejoon Park, Anand Paul, Yang-Soo Lee, and Sang Hyuk Son<br>
 _IEEE Access, 7, 135742-135756, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  Top 20%, 2019)_
 
