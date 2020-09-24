@@ -20,7 +20,7 @@ author_profile: true
   * [JCR Check](https://jcr.clarivate.com/JCRLandingPageAction.action?Init=Yes&SrcApp=IC2LS&SID=H2-HSqQjRJRMGhx2FRMxx0ldKbpBgeJNipQ9wP-18x2dT013YlVia24eA24DqhpckAx3Dx3D9lyKpyGPe7N1KaDLSabITgx3Dx3D-qBgNuLRjcgZrPm66fhjx2Fmwx3Dx3D-h9tQNJ9Nv4eh45yLvkdX3gx3Dx3D)
   * [Journal Information_HanyangU](http://s2journal.bwise.kr/jcr/jcrCategoryRankingPage.do)
   * [Paper Searching](https://starlibrary.org/oa/articles/)
-  * [Top Conference List](https://drive.google.com/file/d/1DKjqtfNZ-BJQxr2af9JuqftR6avkOTmU/view)
+  * [Top Conference List](https://docs.google.com/spreadsheets/d/1jwjFIqQEk2TkjtpqdsbUigceDpH3sZpuCJe_-13RiFo/edit?usp=sharing)
   * [ACM SIGCHI Conference Schedule](https://sigchi.org/conferences/upcoming-conferences/)
   * [Research Reality Check](https://sites.google.com/site/jeonggilko/research-reality-check)
   * [IEEE Publication Recommender](https://publication-recommender.ieee.org/home)
