@@ -17,11 +17,10 @@ author_profile: true
   * [Publons](https://publons.com/researcher/3681289/sanghoon-jeon/)
 
 * Links
-  * [JCR Check](https://jcr.clarivate.com/JCRLandingPageAction.action?Init=Yes&SrcApp=IC2LS&SID=H2-HSqQjRJRMGhx2FRMxx0ldKbpBgeJNipQ9wP-18x2dT013YlVia24eA24DqhpckAx3Dx3D9lyKpyGPe7N1KaDLSabITgx3Dx3D-qBgNuLRjcgZrPm66fhjx2Fmwx3Dx3D-h9tQNJ9Nv4eh45yLvkdX3gx3Dx3D)
   * [Journal Information_HanyangU](http://s2journal.bwise.kr/jcr/jcrCategoryRankingPage.do)
-  * [Paper Searching](https://starlibrary.org/oa/articles/)
   * [Top Conference List](https://drive.google.com/file/d/1TpRuu9OJbrEK5Q0diwBqBukQiK5nFAWm/view?usp=sharing)
+  * [JCR Check](https://jcr.clarivate.com/JCRLandingPageAction.action?Init=Yes&SrcApp=IC2LS&SID=H2-HSqQjRJRMGhx2FRMxx0ldKbpBgeJNipQ9wP-18x2dT013YlVia24eA24DqhpckAx3Dx3D9lyKpyGPe7N1KaDLSabITgx3Dx3D-qBgNuLRjcgZrPm66fhjx2Fmwx3Dx3D-h9tQNJ9Nv4eh45yLvkdX3gx3Dx3D)
+  * [Paper Searching](https://starlibrary.org/oa/articles/)
   * [ACM SIGCHI Conference Schedule](https://sigchi.org/conferences/upcoming-conferences/)
   * [Research Reality Check](https://sites.google.com/site/jeonggilko/research-reality-check)
-  * [IEEE Publication Recommender](https://publication-recommender.ieee.org/home)
   * [Github Markdown Edit](https://gist.github.com/ihoneymon/652be052a0727ad59601)
