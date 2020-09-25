@@ -25,8 +25,15 @@ Although many stroke survivors are not fully capable of driving, they drive agai
 ***
 TBU
 
+## 5. IoT Camera 
+***
+TBU
 
-## 5. Smart Brooch Wearable Device 
+## 6. Wearable Brooch Device 
+***
+TBU
+
+## 7. Exercise Measurement Device for Rehabilitation
 ***
 TBU
 
