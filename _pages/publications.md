@@ -7,8 +7,8 @@ author_profile: true
 
 ## Publications List
 ***
->In perparation
-* **IoT-based Architecture for Automated Shock Treatment**
+>Submitted
+
 
 >2020
 
