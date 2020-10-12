@@ -7,8 +7,6 @@ author_profile: true
 
 ## Publications List
 ***
->Submitted
-
 
 >2020
 
