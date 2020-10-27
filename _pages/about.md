@@ -16,7 +16,7 @@ Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Emb
 
 ## Education
 _2014/03 - 2020/08_
-  * Doctor of Philosopy (Ph.D.) in Department of information and Communication Engineering, DGIST
+  * Doctor of Philosophy (Ph.D.) in Department of information and Communication Engineering, DGIST
   * Dissertation: "AI-based Human-in-the-loop Cyber Physical Systems in Healthcare Applications"
   * Advisor: Sang Hyuk Son
 
