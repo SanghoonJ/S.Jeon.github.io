@@ -10,7 +10,7 @@ author_profile: true
 
 >2020
 
-* **An Automatic Driving Performance Assessment System for Stroke Drivers by exploiting Pre-trained CNN models** `SCIE Journal` <br>
+* **Driving-PASS: A Driving Performance Assessment System for Stroke Drivers using Deep Features** `SCIE Journal` <br>
 Sanghoon Jeon, Joonwoo Son, Myoungouk Park, Byuk Sung Ko, and Sang Hyuk Son<br>
 _IEEE Access, revised_
 
