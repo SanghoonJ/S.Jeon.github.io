@@ -12,7 +12,7 @@ author_profile: true
 
 * **Driving-PASS: A Driving Performance Assessment System for Stroke Drivers using Deep Features** `SCIE Journal` <br>
 Sanghoon Jeon, Joonwoo Son, Myoungouk Park, Byuk Sung Ko, and Sang Hyuk Son<br>
-_IEEE Access, accepted, 2021 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  22.1%, 2019)_
+_IEEE Access, accepted, 2021 (SCIE, IF=3.745, Category: Computer Science, Information Systems, JCR Ranking  22.1%, 2019)_
 
 >2019
 
