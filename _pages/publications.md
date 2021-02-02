@@ -11,19 +11,19 @@ author_profile: true
 >Submitted
 * **IOT-based Architecture and Implementation for Automatic Shock Treatment** `SCIE Journal`<br>
 Jisoo Shin, Namhwa Lee, Youngjae Kim, Inwhee Joe, Byuk Sung Ko, and Sanghoon Jeon<br>
-_Sensors_
+_Sensors, (SCIE, IF=275, Category: INSTRUMENTS & INSTRUMENTATION, JCR Ranking 22.656%, 2019)_
 
 >2021
 
 * **Driving-PASS: A Driving Performance Assessment System for Stroke Drivers using Deep Features** `SCIE Journal` [`DOI`](https://doi.org/10.1109/ACCESS.2021.3055870)<br>
 Sanghoon Jeon, Joonwoo Son, Myoungouk Park, Byuk Sung Ko, and Sang Hyuk Son<br>
-_IEEE Access, accepted, 2021 (SCIE, IF=3.745, Category: Computer Science, Information Systems, JCR Ranking  22.1%, 2019)_
+_IEEE Access, accepted, 2021 (SCIE, IF=3.745, Category: Computer Science, Information Systems, JCR Ranking  22.115%, 2019)_
 
 >2019
 
 * **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework** `SCIE Journal` [`DOI`](https://doi.org/10.1109/ACCESS.2019.2942608)<br>
 Sanghoon Jeon, Taejoon Park, Anand Paul, Yang-Soo Lee, and Sang Hyuk Son<br>
-_IEEE Access, 7, 135742-135756, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  14.5%, 2018)_
+_IEEE Access, 7, 135742-135756, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  14.516%, 2018)_
 
 * **Demo: Automatic Assessment Framework for Range of Motion Test using Wearable Device and Smartphone**<br>
  Sanghoon Jeon, Yang-Soo Lee, and Sang Hyuk Son<br>
