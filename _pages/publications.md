@@ -85,11 +85,11 @@ _International Symposium on Embedded Technology (ISET), Daegu, Korea, June 2015_
 _IEEE International Conference on Cyber-Physical Systems, Networks, and Applications (CPSNA), Hong Kong, China, August 2015_
 
 * **Prevention System of Forward Head Posture Using IMU and Infrared Distance Sensor (Best paper award)**<br>
-전상훈, 고병진, 손상혁<br>
+**전상훈**, 고병진, 손상혁<br>
 _대한임베디드공학회 추계학술대회, Jeju, Korea, Nov 2015_
 
 * **Wrist Motion Analysis based on Sleep Positions for Detecting In-sleep Stroke**<br>
-허재원, 이양수, 양원종, 전상훈, 손상혁<br>
+허재원, 이양수, 양원종, **전상훈**, 손상혁<br>
 _대한재활의학회 추계학술대회, Jeju, Korea, Oct 2015_
 
 >2014
@@ -99,7 +99,7 @@ _대한재활의학회 추계학술대회, Jeju, Korea, Oct 2015_
 _International Symposium on Embedded Technology (ISET), Daegu, Korea, July 2014_
 
 * **A Review of Sleep Studies**<br>
-전상훈, 손상혁, 박태준<br>
+**전상훈**, 손상혁, 박태준<br>
 _대한임베디드공학회 추계학술대회, Jeju, Korea, Oct 2014_
 
 >2013
@@ -109,7 +109,7 @@ _대한임베디드공학회 추계학술대회, Jeju, Korea, Oct 2014_
 _International Symposium on Embedded Technology (ISET), Daegu, Korea, May 2013_
 
 * **재활 어플리케이션을 위한 근전도 센서의 가능성 검증**<br>
-전상훈, 박태준, 손상혁<br>
+**전상훈**, 박태준, 손상혁<br>
 _한국정보과학회 유비쿼터스 컴퓨팅과 웹 정보기술 학술심포지움, Daegu, Korea, Dec 2013_
 
 
