@@ -10,13 +10,13 @@ author_profile: true
 
 >2021
 
-* **Driving-PASS: A Driving Performance Assessment System for Stroke Drivers using Deep Features** `SCIE Journal` `DOI`<br>
+* **Driving-PASS: A Driving Performance Assessment System for Stroke Drivers using Deep Features** `SCIE Journal` [`DOI`](10.1109/ACCESS.2021.3055870)<br>
 Sanghoon Jeon, Joonwoo Son, Myoungouk Park, Byuk Sung Ko, and Sang Hyuk Son<br>
 _IEEE Access, accepted, 2021 (SCIE, IF=3.745, Category: Computer Science, Information Systems, JCR Ranking  22.1%, 2019)_
 
 >2019
 
-* **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework** `SCIE Journal` [`DOI`](https://ieeexplore.ieee.org/document/8845586)<br>
+* **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework** `SCIE Journal` [`DOI`](10.1109/ACCESS.2019.2942608)<br>
 Sanghoon Jeon, Taejoon Park, Anand Paul, Yang-Soo Lee, and Sang Hyuk Son<br>
 _IEEE Access, 7, 135742-135756, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  14.5%, 2018)_
 
