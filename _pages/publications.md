@@ -8,12 +8,6 @@ author_profile: true
 ## Publications List
 ***
 
->Submitted
-
-* **IOT-based Architecture and Implementation for Automatic Shock Treatment** `SCIE Journal`<br>
-Jisoo Shin, Namhwa Lee, Youngjae Kim, Inwhee Joe, Byuk Sung Ko, and Sanghoon Jeon<br>
-_Sensors_
-
 >2021
 
 * **Driving-PASS: A Driving Performance Assessment System for Stroke Drivers using Deep Features** `SCIE Journal` [`DOI`](https://doi.org/10.1109/ACCESS.2021.3055870)<br>
