@@ -9,6 +9,7 @@ author_profile: true
 ***
 
 >Submitted
+
 * **IOT-based Architecture and Implementation for Automatic Shock Treatment** `SCIE Journal`<br>
 Jisoo Shin, Namhwa Lee, Youngjae Kim, Inwhee Joe, Byuk Sung Ko, and Sanghoon Jeon<br>
 _Sensors, (SCIE, IF=275, Category: Instruments & Instrumentation, JCR Ranking 22.656%, 2019)_
