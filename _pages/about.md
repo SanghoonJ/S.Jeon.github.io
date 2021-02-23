@@ -41,8 +41,8 @@ _2015/03 - 2017/08_
 
 ## Selected Projects
   1. In-sleep Stroke Early-Detection ( _SMC'18_ )
-  2. Sleep Position Tracking System ( _SMC'17, IEEE Access 19'_ )
-  3. Automatic Stroke Driver Assessment ( _ICARCV 18', IEEE Access 20'_ )
+  2. Sleep Position Tracking System ( _SMC'17, IEEE Access_ )
+  3. Automatic Stroke Driver Assessment ( _ICARCV 18', IEEE Access_ )
   4. Smart Infusion Pump
   5. Wearable Monitoring Device 
 
