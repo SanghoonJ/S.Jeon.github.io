@@ -54,7 +54,7 @@ _2015/03 - 2017/08_
   * Runner-up prize, Innovation Awards in Hanyang University, 2020
 
 ## Affilations
-  <img src="/images/l33.png" width="55%" height="20%"><br><br>
+  <img src="/images/hanyang.png" width="55%" height="20%"><br><br>
   <img src="/images/l22.png" width="60%" height="20%"><br><br>
   <img src="/images/l11.png" width="60%" height="20%"><br><br>
 
