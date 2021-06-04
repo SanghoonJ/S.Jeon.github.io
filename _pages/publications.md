@@ -10,10 +10,6 @@ author_profile: true
 
 >2021
 
-* **IoT-based Architecture and Implementation for Automatic Shock Treatment** `SCIE Journal` <br>
-Namhwa Lee, Jisoo Shin, Youngjae Kim, Inwhee Joe, **Sanghoon Jeon**, and Byuk Sung Ko<br>
-_KSSI Transactions on Internet and Information Systems, Submitted_
-
 * **Driving-PASS: A Driving Performance Assessment System for Stroke Drivers using Deep Features** `SCIE Journal` [`DOI`](https://doi.org/10.1109/ACCESS.2021.3055870)<br>
 **Sanghoon Jeon**, Joonwoo Son, Myoungouk Park, Byuk Sung Ko, and Sang Hyuk Son<br>
 _IEEE Access, 9, 21627-21641, 2021 (SCIE, IF=3.745, Category: Computer Science, Information Systems, JCR Ranking  22.115%, 2019)_
