@@ -51,7 +51,7 @@ _2015/03 - 2017/08_
     _B.S., Full-tuition Scholarship for Four years_
   * Best paper award in 대한임베디드공학회 추계학술대회, 2015 
   * MobiSys Student Travel Grant, 2019
-  * Runner-up prize, Innovation Awards in Hanyang University, 2020
+  * Runner-up prize, Innovation Awards in Hanyang University, 2020 and 2021
 
 ## Affilations
   <img src="/images/hanyang.png" width="60%" height="10%"><br><br>
