@@ -8,7 +8,7 @@ author_profile: true
 ## Publication List
 ***
 
-### ***International Journal***
+### 1. International Journal
 
 * **IoT-based Architecture and Implementation for Automatic
 Shock Treatment** `SCIE Journal`<br>
@@ -25,7 +25,7 @@ _IEEE Access, 7, 135742-135756, 2019 (SCIE, IF=4.098, Category: Computer Science
 
 
 ***
-### ***International Conference/Symposium Proceedings***
+### 2. International Conference/Symposium Proceedings
 
 * **Driving-PASS: Automatic Driving Performance Assessment System for Stroke Drivers based on ANN and SVM** `ICARCV'18`<br>
     **Sanghoon Jeon**, Joonwoo Son, Myoungouk Park, Bawul Kim, Yongsoon Eun, and Sang Hyuk Son<br>
@@ -44,7 +44,7 @@ _25th ITS World Congress, Copenhagen, Denmark, Sep. 2018_
 _IEEE International Conference on Systems, Man, and Cybernetics (SMC), Banff, Canada, Oct. 2017_
 
 ***
-### ***International WiP/Poster/Demo***
+### 3. International WiP/Poster/Demo
 
 * **Demo: Automatic Assessment Framework for Range of Motion Test using Wearable Device and Smartphone**<br>
  **Sanghoon Jeon**, Yang-Soo Lee, and Sang Hyuk Son<br>
@@ -95,7 +95,7 @@ _International Symposium on Embedded Technology (ISET), Daegu, Korea, July 2014_
 _International Symposium on Embedded Technology (ISET), Daegu, Korea, May 2013_
 
 ***
-### ***Domestic Conference/Symposium Proceedings***
+### 4. Domestic Conference/Symposium Proceedings
 
 * **Prevention System of Forward Head Posture Using IMU and Infrared Distance Sensor (Best paper award)**<br>
 **전상훈**, 고병진, 손상혁<br>
