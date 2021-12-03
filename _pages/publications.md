@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 📄 Publication List
+## 📚 Publication List
 ***
 
 ### 1. International Journal
