@@ -26,13 +26,11 @@ _IEEE Access, 7, 135742-135756, 2019 (SCIE, IF=4.098, Category: Computer Science
 ***
 ### 2. International Conference/Symposium Proceedings
 
-* **Driving-PASS: Automatic Driving Performance Assessment System for Stroke Drivers based on ANN and SVM** <mark style='background-color: #f5f0ff; font-style:italic'> ICARCV'18 </mark>
-<br>
-    **Sanghoon Jeon**, Joonwoo Son, Myoungouk Park, Bawul Kim, Yongsoon Eun, and Sang Hyuk Son<br>
-    _International Conference on Control, Automation, Robotics and Vision  (ICARCV), Singapore , Nov. 2018._  
+* **Driving-PASS: Automatic Driving Performance Assessment System for Stroke Drivers based on ANN and SVM** <mark style='background-color: #f5f0ff; font-style:italic'> ICARCV'18 </mark><br>
+**Sanghoon Jeon**, Joonwoo Son, Myoungouk Park, Bawul Kim, Yongsoon Eun, and Sang Hyuk Son<br>
+_International Conference on Control, Automation, Robotics and Vision  (ICARCV), Singapore , Nov. 2018._  
 
-* **RISK-Sleep: Real-time Stroke Early Detection System During Sleep Using Wristbands** <mark style='background-color: #f5f0ff; font-style:italic'> SMC'18 </mark>
- <br>
+* **RISK-Sleep: Real-time Stroke Early Detection System During Sleep Using Wristbands** <mark style='background-color: #f5f0ff; font-style:italic'> SMC'18 </mark><br>
 **Sanghoon Jeon**, Taejoon Park, Yang-Soo Lee, Haengju Lee, Yongsoon Eun, and Sang Hyuk Son<br>
 _IEEE International Conference on Systems, Man, and Cybernetics (SMC), Miyajaki, Japan, Oct. 2018_
 
@@ -41,7 +39,7 @@ Homin Park, **Sanghoon Jeon**, Taejoon Park, Byungkyu Brian Park, Junhong Jeon, 
 _25th ITS World Congress, Copenhagen, Denmark, Sep. 2018_
 
 * **SleePS: Sleep Position Tracking System for Screening Sleep Quality by Wristbands** <mark style='background-color: #f5f0ff; font-style:italic'> SMC'17 </mark> <br>
-  **Sanghoon Jeon**, Anand Paul, Haengju Lee, Yongsoon Eun, and Sang Hyuk Son<br>
+**Sanghoon Jeon**, Anand Paul, Haengju Lee, Yongsoon Eun, and Sang Hyuk Son<br>
 _IEEE International Conference on Systems, Man, and Cybernetics (SMC), Banff, Canada, Oct. 2017_
 
 ***
