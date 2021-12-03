@@ -141,7 +141,7 @@ _KP (대한민국특허청) 10-2014-0057281, May 2014_
 Yang-Soo Lee, Taejoon Park, **Sanghoon Jeon**, Daehan Ahn<br>
 _KP (대한민국특허청) 10-2014-0089729, Jul. 2014_
 
-
+<font color="red">Status: **Not yet implemented**</font>
 <span style="color:red">Red Text</span>
 <mark style='background-color: #ffd33d'> 노랑 </mark>
 <mark style='background-color: #fff5b1'> 연한 노랑 </mark>
