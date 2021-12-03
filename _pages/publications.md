@@ -154,3 +154,4 @@ _KP (대한민국특허청) 10-2014-0089729, Jul. 2014_
 <span style="color:red">붉은 색</span>
 <span style="color:blue">파란 색</span>
 🌮
+<span data-color="red">Red</span>
