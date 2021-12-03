@@ -10,15 +10,15 @@ author_profile: true
 
 ### 1. International Journal
 
-* <mark style='background-color: #ffdce0; font-style:italic'> SCIE Journal </mark> **IoT-based Architecture and Implementation for Automatic Shock Treatment** <br>
+* **IoT-based Architecture and Implementation for Automatic Shock Treatment** <mark style='background-color: #ffdce0; font-style:italic'> SCIE Journal </mark><br>
 Namhwa Lee, Youngjae Kim, Minsu Jeong, Jisoo Shin, Inwhee Joe, **Sanghoon Jeon**, Byuk Sung Ko<br>
 _KSII Transactions on Internet and Information Systems, Accepted, 2021_
 
-* <mark style='background-color: #ffdce0'> _SCIE Journal_</mark>  **Driving-PASS: A Driving Performance Assessment System for Stroke Drivers using Deep Features**  [`DOI`](https://doi.org/10.1109/ACCESS.2021.3055870)<br>
+* **Driving-PASS: A Driving Performance Assessment System for Stroke Drivers using Deep Features**  <mark style='background-color: #ffdce0; font-style:italic'> SCIE Journal </mark> [`DOI`](https://doi.org/10.1109/ACCESS.2021.3055870)<br>
 **Sanghoon Jeon**, Joonwoo Son, Myoungouk Park, Byuk Sung Ko, and Sang Hyuk Son<br>
 _IEEE Access, 9, 21627-21641, 2021 (SCIE, IF=3.745, Category: Computer Science, Information Systems, JCR Ranking  22.115%, 2019)_
 
-* <mark style='background-color: #ffdce0'> _SCIE Journal_</mark>  **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework**  [`DOI`](https://doi.org/10.1109/ACCESS.2019.2942608)<br>
+* **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework**  <mark style='background-color: #ffdce0; font-style:italic'> SCIE Journal </mark>[`DOI`](https://doi.org/10.1109/ACCESS.2019.2942608)<br>
 **Sanghoon Jeon**, Taejoon Park, Anand Paul, Yang-Soo Lee, and Sang Hyuk Son<br>
 _IEEE Access, 7, 135742-135756, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  14.516%, 2018)_
 
@@ -26,19 +26,21 @@ _IEEE Access, 7, 135742-135756, 2019 (SCIE, IF=4.098, Category: Computer Science
 ***
 ### 2. International Conference/Symposium Proceedings
 
-* **Driving-PASS: Automatic Driving Performance Assessment System for Stroke Drivers based on ANN and SVM** `ICARCV'18`<br>
+* **Driving-PASS: Automatic Driving Performance Assessment System for Stroke Drivers based on ANN and SVM** <mark style='background-color: #f5f0ff; font-style:italic'> ICARCV'18 </mark>
+<br>
     **Sanghoon Jeon**, Joonwoo Son, Myoungouk Park, Bawul Kim, Yongsoon Eun, and Sang Hyuk Son<br>
     _International Conference on Control, Automation, Robotics and Vision  (ICARCV), Singapore , Nov. 2018._  
 
-* **RISK-Sleep: Real-time Stroke Early Detection System During Sleep Using Wristbands** `SMC'18` <br>
+* **RISK-Sleep: Real-time Stroke Early Detection System During Sleep Using Wristbands** <mark style='background-color: #f5f0ff; font-style:italic'> SMC'18 </mark>
+ <br>
 **Sanghoon Jeon**, Taejoon Park, Yang-Soo Lee, Haengju Lee, Yongsoon Eun, and Sang Hyuk Son<br>
 _IEEE International Conference on Systems, Man, and Cybernetics (SMC), Miyajaki, Japan, Oct. 2018_
 
-* **Assessment of Route Guidance System Utilizing Turing Movement Specific Link Travel Times** `ITSWC'18`<br>
+* **Assessment of Route Guidance System Utilizing Turing Movement Specific Link Travel Times** <mark style='background-color: #f5f0ff; font-style:italic'> ITSWC'18 </mark><br>
 Homin Park, **Sanghoon Jeon**, Taejoon Park, Byungkyu Brian Park, Junhong Jeon, Youngsoon Eun, and Sang Hyuk Son<br>
 _25th ITS World Congress, Copenhagen, Denmark, Sep. 2018_
 
-* **SleePS: Sleep Position Tracking System for Screening Sleep Quality by Wristbands** `SMC'17` <br>
+* **SleePS: Sleep Position Tracking System for Screening Sleep Quality by Wristbands** <mark style='background-color: #f5f0ff; font-style:italic'> SMC'17 </mark> <br>
   **Sanghoon Jeon**, Anand Paul, Haengju Lee, Yongsoon Eun, and Sang Hyuk Son<br>
 _IEEE International Conference on Systems, Man, and Cybernetics (SMC), Banff, Canada, Oct. 2017_
 
