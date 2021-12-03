@@ -9,6 +9,8 @@ author_profile: true
 ***
 
 ### International Journal
+***
+---
 
 * **IoT-based Architecture and Implementation for Automatic
 Shock Treatment** `SCIE Journal`<br>
