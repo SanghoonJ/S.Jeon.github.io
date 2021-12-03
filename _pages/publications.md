@@ -140,3 +140,13 @@ _KP (대한민국특허청) 10-2014-0057281, May 2014_
 * **Apparatus and Method for Emergency Alarm (긴급 상황 알람 장치 및 방법)**<br>
 Yang-Soo Lee, Taejoon Park, **Sanghoon Jeon**, Daehan Ahn<br>
 _KP (대한민국특허청) 10-2014-0089729, Jul. 2014_
+
+
+<mark style='background-color: #ffd33d'> 노랑 </mark>
+<mark style='background-color: #fff5b1'> 연한 노랑 </mark>
+<mark style='background-color: #d73a48'> 빨강 </mark>
+<mark style='background-color: #ffdce0'> 연한 빨강 </mark>
+<mark style='background-color: #28a745'> 초록 </mark>
+<mark style='background-color: #dcffe4'> 연한 초록 </mark>
+<mark style='background-color: #6f42c1'> 보라 </mark>
+<mark style='background-color: #f5f0ff'> 연한 보라 </mark>
