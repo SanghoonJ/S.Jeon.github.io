@@ -14,7 +14,7 @@ author_profile: true
 Namhwa Lee, Youngjae Kim, Minsu Jeong, Jisoo Shin, Inwhee Joe, **Sanghoon Jeon**, Byuk Sung Ko<br>
 _KSII Transactions on Internet and Information Systems, Accepted, 2021_
 
-* **Driving-PASS: A Driving Performance Assessment System for Stroke Drivers using Deep Features**  <mark style='background-color: #ffdce0; font-size: 12pt'> SCIE Journal </mark> [`DOI`](https://doi.org/10.1109/ACCESS.2021.3055870)<br>
+* **Driving-PASS: A Driving Performance Assessment System for Stroke Drivers using Deep Features**  <mark style='background-color: #ffdce0; font-size: 12pt'> SCIE Journal </mark> <mark style='background-color: #fff5b1'> [DOI](https://doi.org/10.1109/ACCESS.2021.3055870) </mark><br>
 **Sanghoon Jeon**, Joonwoo Son, Myoungouk Park, Byuk Sung Ko, and Sang Hyuk Son<br>
 _IEEE Access, 9, 21627-21641, 2021 (SCIE, IF=3.745, Category: Computer Science, Information Systems, JCR Ranking  22.115%, 2019)_
 
