@@ -151,3 +151,5 @@ _KP (대한민국특허청) 10-2014-0089729, Jul. 2014_
 <mark style='background-color: #dcffe4'> 연한 초록 </mark>
 <mark style='background-color: #6f42c1'> 보라 </mark>
 <mark style='background-color: #f5f0ff'> 연한 보라 </mark>
+<span style="color:red">붉은 색</span>
+<span style="color:blue">파란 색</span>
