@@ -8,7 +8,7 @@ author_profile: true
 ## Publications List
 ***
 
->2021
+> International Journal
 
 * **IoT-based Architecture and Implementation for Automatic
 Shock Treatment** `SCIE Journal`<br>
@@ -19,21 +19,12 @@ _KSII Transactions on Internet and Information Systems, Accepted, 2021 (SCIE)_
 **Sanghoon Jeon**, Joonwoo Son, Myoungouk Park, Byuk Sung Ko, and Sang Hyuk Son<br>
 _IEEE Access, 9, 21627-21641, 2021 (SCIE, IF=3.745, Category: Computer Science, Information Systems, JCR Ranking  22.115%, 2019)_
 
->2019
-
 * **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework** `SCIE Journal` [`DOI`](https://doi.org/10.1109/ACCESS.2019.2942608)<br>
 **Sanghoon Jeon**, Taejoon Park, Anand Paul, Yang-Soo Lee, and Sang Hyuk Son<br>
 _IEEE Access, 7, 135742-135756, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  14.516%, 2018)_
 
-* **Demo: Automatic Assessment Framework for Range of Motion Test using Wearable Device and Smartphone**<br>
- **Sanghoon Jeon**, Yang-Soo Lee, and Sang Hyuk Son<br>
- _The 17th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys), Seoul, Republic of Korea, June 2019_
 
-* **Early Detection of Wake-up Stroke using Wearable Sensors: Preliminary Study**<br>
-Yang-Soo Lee and **Sanghoon Jeon**<br>
-_The 4th International Brain Technology Conference (BrainTech), Tel Aviv, Israel, March 2019_
-
->2018
+>International Conference/Symposium Proceedings
 
 * **Driving-PASS: Automatic Driving Performance Assessment System for Stroke Drivers based on ANN and SVM** `ICARCV'18`<br>
     **Sanghoon Jeon**, Joonwoo Son, Myoungouk Park, Bawul Kim, Yongsoon Eun, and Sang Hyuk Son<br>
@@ -47,6 +38,20 @@ _IEEE International Conference on Systems, Man, and Cybernetics (SMC), Miyajaki,
 Homin Park, **Sanghoon Jeon**, Taejoon Park, Byungkyu Brian Park, Junhong Jeon, Youngsoon Eun, and Sang Hyuk Son<br>
 _25th ITS World Congress, Copenhagen, Denmark, Sep. 2018_
 
+* **SleePS: Sleep Position Tracking System for Screening Sleep Quality by Wristbands** `SMC'17` <br>
+  **Sanghoon Jeon**, Anand Paul, Haengju Lee, Yongsoon Eun, and Sang Hyuk Son<br>
+_IEEE International Conference on Systems, Man, and Cybernetics (SMC), Banff, Canada, Oct. 2017_
+
+>International WiP/Poster/Demo
+
+* **Demo: Automatic Assessment Framework for Range of Motion Test using Wearable Device and Smartphone**<br>
+ **Sanghoon Jeon**, Yang-Soo Lee, and Sang Hyuk Son<br>
+ _The 17th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys), Seoul, Republic of Korea, June 2019_
+
+* **Early Detection of Wake-up Stroke using Wearable Sensors: Preliminary Study**<br>
+Yang-Soo Lee and **Sanghoon Jeon**<br>
+_The 4th International Brain Technology Conference (BrainTech), Tel Aviv, Israel, March 2019_
+
 * **Poster Abstract: Sleep Position Management System for Enhancing Sleep Quality using Wearable Devices**<br>
 **Sanghoon Jeon**, Anand Paul, Sang Hyuk Son, and Yongsoon Eun<br>
 _Adjunct Publication of the 16th ACM Conference on Embedded Networked Sensor Systems (SenSys), Shenzhen, China, Nov. 2018_
@@ -54,14 +59,6 @@ _Adjunct Publication of the 16th ACM Conference on Embedded Networked Sensor Sys
 * **Poster Abstract: Biometric Gait Identification for Exercise Reward System using Smart Earring**<br>
 **Sanghoon Jeon**, Hee-Jung Yoon, Yang-Soo Lee, Sang Hyuk Son, and Yongsoon Eun<br>
 _Adjunct Publication of the 16th ACM Conference on Embedded Networked Sensor Systems (SenSys), Shenzhen, China, Nov. 2018_
-
->2017
-
-* **SleePS: Sleep Position Tracking System for Screening Sleep Quality by Wristbands** `SMC'17` <br>
-  **Sanghoon Jeon**, Anand Paul, Haengju Lee, Yongsoon Eun, and Sang Hyuk Son<br>
-_IEEE International Conference on Systems, Man, and Cybernetics (SMC), Banff, Canada, Oct. 2017_
-
->2016
 
 * **Demo Abstract: Smart-bin using Ultrawideband Localization to Assist People with Movement Disabilities**<br>
 **Sanghoon Jeon**, Ki-Dong Kang, Haengju Lee, and Sang Hyuk Son<br>
@@ -79,8 +76,6 @@ _Proceedings of the 14th Annual International Conference on Mobile Systems, Appl
 Hee Jung Yoon, Ho-Kyeong Ra, **Sanghoon Jeon**, Minsu Jo, Seongjoo Shin, Jicheol Park, and Sang Hyuk Son<br>
 _IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), Daegu, Korea, Aug. 2016_
 
->2015
-
 * **A Review of Advanced Driver Assistant System to Enhance Driver’s Safety**<br>
 **Sanghoon Jeon**, Haengju Lee and Sang Hyuk Son<br>
 _International Symposium on Embedded Technology (ISET), Daegu, Korea, June 2015_
@@ -88,6 +83,17 @@ _International Symposium on Embedded Technology (ISET), Daegu, Korea, June 2015_
 * **Intelligent Stroke Driver Assistance System to Enhance Driver’s Safety**<br>
 **Sanghoon Jeon**, Haengju Lee and Sang Hyuk Son<br>
 _IEEE International Conference on Cyber-Physical Systems, Networks, and Applications (CPSNA), Hong Kong, China, August 2015_
+
+* **A Review of REM Sleep Behaviour Disorder Estimation**<br>
+**Sanghoon Jeon**, Hyerim Chung and Taejoon Park<br>
+_International Symposium on Embedded Technology (ISET), Daegu, Korea, July 2014_
+
+* **Real-time Visual EMG Biofeedback for Rehabilitation**<br>
+**Sanghoon Jeon**, Taejoon Park and Sang Hyuk Son<br>
+_International Symposium on Embedded Technology (ISET), Daegu, Korea, May 2013_
+
+
+>Domestic Conference/Symposium Proceedings
 
 * **Prevention System of Forward Head Posture Using IMU and Infrared Distance Sensor (Best paper award)**<br>
 **전상훈**, 고병진, 손상혁<br>
@@ -97,27 +103,13 @@ _대한임베디드공학회 추계학술대회, Jeju, Korea, Nov 2015_
 허재원, 이양수, 양원종, **전상훈**, 손상혁<br>
 _대한재활의학회 추계학술대회, Jeju, Korea, Oct 2015_
 
->2014
-
-* **A Review of REM Sleep Behaviour Disorder Estimation**<br>
-**Sanghoon Jeon**, Hyerim Chung and Taejoon Park<br>
-_International Symposium on Embedded Technology (ISET), Daegu, Korea, July 2014_
-
 * **A Review of Sleep Studies**<br>
 **전상훈**, 손상혁, 박태준<br>
 _대한임베디드공학회 추계학술대회, Jeju, Korea, Oct 2014_
 
->2013
-
-* **Real-time Visual EMG Biofeedback for Rehabilitation**<br>
-**Sanghoon Jeon**, Taejoon Park and Sang Hyuk Son<br>
-_International Symposium on Embedded Technology (ISET), Daegu, Korea, May 2013_
-
 * **재활 어플리케이션을 위한 근전도 센서의 가능성 검증**<br>
 **전상훈**, 박태준, 손상혁<br>
 _한국정보과학회 유비쿼터스 컴퓨팅과 웹 정보기술 학술심포지움, Daegu, Korea, Dec 2013_
-
-
 
 
 
