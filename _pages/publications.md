@@ -10,15 +10,15 @@ author_profile: true
 
 ### 1. International Journal
 
-* <mark style='background-color: #ffdce0'> SCIE Journal</mark>**IoT-based Architecture and Implementation for Automatic Shock Treatment** <br>
+* <mark style='background-color: #ffdce0'> SCIE Journal</mark> **IoT-based Architecture and Implementation for Automatic Shock Treatment** <br>
 Namhwa Lee, Youngjae Kim, Minsu Jeong, Jisoo Shin, Inwhee Joe, **Sanghoon Jeon**, Byuk Sung Ko<br>
 _KSII Transactions on Internet and Information Systems, Accepted, 2021_
 
-* <mark style='background-color: #ffdce0'> SCIE Journal</mark>**Driving-PASS: A Driving Performance Assessment System for Stroke Drivers using Deep Features**  [`DOI`](https://doi.org/10.1109/ACCESS.2021.3055870)<br>
+* <mark style='background-color: #ffdce0'> SCIE Journal</mark>  **Driving-PASS: A Driving Performance Assessment System for Stroke Drivers using Deep Features**  [`DOI`](https://doi.org/10.1109/ACCESS.2021.3055870)<br>
 **Sanghoon Jeon**, Joonwoo Son, Myoungouk Park, Byuk Sung Ko, and Sang Hyuk Son<br>
 _IEEE Access, 9, 21627-21641, 2021 (SCIE, IF=3.745, Category: Computer Science, Information Systems, JCR Ranking  22.115%, 2019)_
 
-* <mark style='background-color: #ffdce0'> SCIE Journal</mark>**A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework**  [`DOI`](https://doi.org/10.1109/ACCESS.2019.2942608)<br>
+* <mark style='background-color: #ffdce0'> SCIE Journal</mark>  **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework**  [`DOI`](https://doi.org/10.1109/ACCESS.2019.2942608)<br>
 **Sanghoon Jeon**, Taejoon Park, Anand Paul, Yang-Soo Lee, and Sang Hyuk Son<br>
 _IEEE Access, 7, 135742-135756, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  14.516%, 2018)_
 
