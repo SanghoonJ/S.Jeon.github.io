@@ -22,8 +22,6 @@ _IEEE Access, 9, 21627-21641, 2021 (SCIE, IF=3.745, Category: Computer Science, 
 **Sanghoon Jeon**, Taejoon Park, Anand Paul, Yang-Soo Lee, and Sang Hyuk Son<br>
 _IEEE Access, 7, 135742-135756, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  14.516%, 2018)_
 
-<mark style='background-color: #dcffe4'> 연한 초록 </mark>
-
 ***
 ### 2. International Conference/Symposium Proceedings
 
@@ -141,6 +139,7 @@ _KP (대한민국특허청) 10-2014-0057281, May 2014_
 Yang-Soo Lee, Taejoon Park, **Sanghoon Jeon**, Daehan Ahn<br>
 _KP (대한민국특허청) 10-2014-0089729, Jul. 2014_
 
+\\<!--
 <font color="red">Status: **Not yet implemented**</font>
 <span style="color:red">Red Text</span>
 <mark style='background-color: #ffd33d'> 노랑 </mark>
@@ -156,3 +155,4 @@ _KP (대한민국특허청) 10-2014-0089729, Jul. 2014_
 🌮
 <span data-color="red">Red</span>
 ${textcolor('highlighted', 'darkgreen')}
+-->
