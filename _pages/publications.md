@@ -10,7 +10,7 @@ author_profile: true
 
 ### 1. International Journal
 
-* **IoT-based Architecture and Implementation for Automatic Shock Treatment** <mark style='background-color: #ffdce0; font-style:italic'> <p>&nbsp;</p>SCIE Journal </mark><br>
+* **IoT-based Architecture and Implementation for Automatic Shock Treatment** <mark style='background-color: #ffdce0; font-style:italic'> SCIE Journal </mark><br>
 Namhwa Lee, Youngjae Kim, Minsu Jeong, Jisoo Shin, Inwhee Joe, **Sanghoon Jeon**, Byuk Sung Ko<br>
 _KSII Transactions on Internet and Information Systems, Accepted, 2021_
 
