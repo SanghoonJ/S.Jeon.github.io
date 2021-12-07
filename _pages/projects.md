@@ -9,6 +9,17 @@ author_profile: true
 
 
 
+
+
+
+
+### DGIST
+
+* 과제명 : **대구경북과학기술원, 지능형 차량 및 교통시스템의 고안전성 보장을 위한 사이버물리시스템 기반 융합 플랫폼 기술 개발** 
+* 기간 : 2014.03.01.~2020.02.29. (6년)
+* 역할 : 참여연구원
+
+
 ## 1. In-sleep Stroke Early-Detection
 ***
 Stroke is the third leading cause of death in the United State. More than 140,000 people die each year from stroke in the United States, and the risk of having a stroke is more than doubles each decade after the age of 55. Problem is that stroke could happen during sleep. To prevent and early treatment of the stroke, we analyze sleep motion and provide in-sleep stroke detection system
