@@ -16,8 +16,13 @@ author_profile: true
 ### DGIST
 
 * 과제명 : **대구경북과학기술원, 지능형 차량 및 교통시스템의 고안전성 보장을 위한 사이버물리시스템 기반 융합 플랫폼 기술 개발** 
-* 기간 : 2014.03.01.~2020.02.29. (6년)
-* 역할 : 참여연구원
+기간 : 2014.03.01.~2020.02.29. (6년)
+역할 : 참여연구원
+
+
+* **IoT-based Architecture and Implementation for Automatic Shock Treatment** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
+Namhwa Lee, Youngjae Kim, Minsu Jeong, Jisoo Shin, Inwhee Joe, **Sanghoon Jeon**, Byuk Sung Ko<br>
+_KSII Transactions on Internet and Information Systems, Accepted, 2021_
 
 
 ## 1. In-sleep Stroke Early-Detection
