@@ -6,8 +6,6 @@ author_profile: false
 ---
 
 
-{% include base_path %}
-
 * My Information:     
   * [Linkedin](https://www.linkedin.com/in/sanghoon-jeon-0030a1101/)
   * [ResearchGate](https://www.researchgate.net/profile/Sanghoon_Jeon5)
