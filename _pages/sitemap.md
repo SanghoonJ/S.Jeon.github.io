@@ -6,7 +6,8 @@ author_profile: false
 ---
 
 
-* My Information:     
+### My Information 
+***
   * [Linkedin](https://www.linkedin.com/in/sanghoon-jeon-0030a1101/)
   * [ResearchGate](https://www.researchgate.net/profile/Sanghoon_Jeon5)
   * [ORCID](https://orcid.org/0000-0001-5636-7555)
@@ -15,7 +16,8 @@ author_profile: false
   * [Codebender](https://codebender.cc/user/sanghoon)
   * [Publons](https://publons.com/researcher/3681289/sanghoon-jeon/)
 
-* Links
+### Useful Links 
+***
   * [Journal Information_HanyangU](http://s2journal.bwise.kr/jcr/jcrCategoryRankingPage.do)
   * [Top Conference List](https://drive.google.com/file/d/1TpRuu9OJbrEK5Q0diwBqBukQiK5nFAWm/view?usp=sharing)
   * [JCR Check](https://jcr.clarivate.com/JCRLandingPageAction.action?Init=Yes&SrcApp=IC2LS&SID=H2-HSqQjRJRMGhx2FRMxx0ldKbpBgeJNipQ9wP-18x2dT013YlVia24eA24DqhpckAx3Dx3D9lyKpyGPe7N1KaDLSabITgx3Dx3D-qBgNuLRjcgZrPm66fhjx2Fmwx3Dx3D-h9tQNJ9Nv4eh45yLvkdX3gx3Dx3D)
