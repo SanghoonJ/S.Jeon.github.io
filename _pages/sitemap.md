@@ -1,9 +1,10 @@
 ---
 layout: archive
-permalink: /sitemap/
 title: ""
+permalink: /sitemap/
 author_profile: false
 ---
+
 
 {% include base_path %}
 
