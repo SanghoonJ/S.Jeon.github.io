@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archive-taxonomy
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
