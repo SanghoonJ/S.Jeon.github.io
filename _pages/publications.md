@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-## 📓 Publication List
+## Publication List
 ***
 
 ### 1. International Journal
@@ -113,7 +113,7 @@ _한국정보과학회 유비쿼터스 컴퓨팅과 웹 정보기술 학술심�
 
 &nbsp;
 
-## 📒 Patent List
+## Patent List
 ***
 * **Method and Apparatus for Monitoring and Diagnosing Infectious Disease (감염 질환을 모니터링 및 진단하는 방법 및 장치)**<br>
 Byuk Sung Ko and **Sanghoon Jeon**<br>
