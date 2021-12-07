@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+
+
+
 ## 1. In-sleep Stroke Early-Detection
 ***
 Stroke is the third leading cause of death in the United State. More than 140,000 people die each year from stroke in the United States, and the risk of having a stroke is more than doubles each decade after the age of 55. Problem is that stroke could happen during sleep. To prevent and early treatment of the stroke, we analyze sleep motion and provide in-sleep stroke detection system
