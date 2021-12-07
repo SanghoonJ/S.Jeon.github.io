@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-
+### Hanyang University
 
 
 
@@ -19,41 +19,30 @@ author_profile: true
 기간 : 2014.03.01 ~ 2020.02.29 (6년) <br>
 역할 : 참여연구원
 
+* 과제명 : **대구경북과학기술원, 인간중심 CPS 연구**<br>
+기간 : 2018.06.01 ~ 2020.12.31 (2년 7개월) <br>
+역할 : 참여연구원
 
-* **IoT-based Architecture and Implementation for Automatic Shock Treatment** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
-Namhwa Lee, Youngjae Kim, Minsu Jeong, Jisoo Shin, Inwhee Joe, **Sanghoon Jeon**, Byuk Sung Ko<br>
-_KSII Transactions on Internet and Information Systems, Accepted, 2021_
+* 과제명 : **대구경북과학기술원, 실시간 자율 복원 사이버물리 시스템 기초연구 (고신뢰CPS연구센터)**<br>
+기간 : 2018.01.01 ~ 2019.02.28, 2019.05.01 ~ 2019.12.31 (1년 10개월) <br>
+역할 : 참여연구원
 
+* 과제명 : **대구경북과학기술원, 도심지 무인기 안전 관제 능동 방어 시스템을 위한 스마트 융합 기술**<br>
+기간 : 2017.11.01 ~ 2017.12.31, 2019.01.01 ~ 2019.12.31 (1년 2개월) <br>
+역할 : 참여연구원
 
-## 1. In-sleep Stroke Early-Detection
-***
-Stroke is the third leading cause of death in the United State. More than 140,000 people die each year from stroke in the United States, and the risk of having a stroke is more than doubles each decade after the age of 55. Problem is that stroke could happen during sleep. To prevent and early treatment of the stroke, we analyze sleep motion and provide in-sleep stroke detection system
+* 과제명 : **대구경북과학기술원, 뇌매핑 기반의 로봇 재활**<br>
+기간 : 2014.03.01 ~ 2014.12.31 (10개월) <br>
+역할 : 참여연구원
 
+* 과제명 : **대구경북과학기술원, 전기적 방법에 의한 뇌손상 재활 및 대체 기술 개발**<br>
+기간 : 2014.03.01 ~ 2014.12.31 (10개월) <br>
+역할 : 참여연구원
 
-## 2. Sleep Position Tracking System 
-***
-Most of existing sleep trackers merely show quantitative information about sleep patterns and duration at each sleep stage overlooking the importance of sleep positions upon sleep qualities. To have sound sleep, one has to avoid bad sleep positions associated with health conditions such as obstructive sleep apnea, sudden infant death syndrome, pregnancy, snoring, and so on.
+* 과제명 : **대구경북과학기술원, 100배 편한 스마트 세상을 위한 이지웨어러블(EZ Wearable) 플랫폼 개발**<br>
+기간 : 2014.05.01 ~ 2014.12.31 (8개월) <br>
+역할 : 참여연구원
 
-
-## 3. Automatic Stroke Driver Assessment 
-***
-Although many stroke survivors are not fully capable of driving, they drive again without any formal assessment due to an absence of valid screening tools. This leads to an elevated risk of accidents. Although an on-road test is considered a standard assessment method for items relevant to actual driving, it may be dangerous to evaluate all stroke drivers with the on-road test. For safe pre-screening of unsuitable stroke drivers, we propose an automatic Driving Performance Assessment System for Stroke drivers
-
-
-## 4. Smart Infusion Pump
-***
-TBU
-
-## 5. IoT Camera 
-***
-TBU
-
-## 6. Wearable Brooch Device 
-***
-TBU
-
-## 7. Exercise Measurement Device for Rehabilitation
-***
-TBU
-
-  
+* 과제명 : **대구경북과학기술원, 자율군집을 지원하는 웰빙형 정보기기내장 소프트웨어 플랫폼 개발**<br>
+기간 : 2014.12.01 ~ 2015.02.28 (3개월) <br>
+역할 : 참여연구원
