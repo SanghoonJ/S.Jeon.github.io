@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 
-### My Information 
+## My Information 
 ***
   * [Linkedin](https://www.linkedin.com/in/sanghoon-jeon-0030a1101/)
   * [ResearchGate](https://www.researchgate.net/profile/Sanghoon_Jeon5)
@@ -18,7 +18,7 @@ author_profile: false
 
 &nbsp;
 
-### Useful Links 
+## Useful Links 
 ***
   * [Journal Information_HanyangU](http://s2journal.bwise.kr/jcr/jcrCategoryRankingPage.do)
   * [Top Conference List](https://drive.google.com/file/d/1TpRuu9OJbrEK5Q0diwBqBukQiK5nFAWm/view?usp=sharing)
