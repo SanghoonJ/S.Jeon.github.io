@@ -11,7 +11,7 @@ author_profile: false
   * [Linkedin](https://www.linkedin.com/in/sanghoon-jeon-0030a1101/)
   * [ResearchGate](https://www.researchgate.net/profile/Sanghoon_Jeon5)
   * [ORCID](https://orcid.org/0000-0001-5636-7555)
-  * [Youtube]
+  * [Youtube](https://www.youtube.com/channel/UC3Vv8cgu-2seHcq9rcgdSww)
   * [Github](https://sanghoonj.github.io/)
   * [Codebender](https://codebender.cc/user/sanghoon)
   * [Publons](https://publons.com/researcher/3681289/sanghoon-jeon/)
