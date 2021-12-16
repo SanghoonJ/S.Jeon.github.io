@@ -95,8 +95,7 @@ _International Symposium on Embedded Technology (ISET), Daegu, Korea, May 2013_
 ***
 ### 4. Domestic Conference/Symposium Proceedings
 
-* **Prevention System of Forward Head Posture Using IMU and Infrared Distance Sensor <mark style='background-color: #fff5b1'> Best-paper Award </mark>
-**<br>
+* **Prevention System of Forward Head Posture Using IMU and Infrared Distance Sensor** <mark style='background-color: #fff5b1'> Best-paper Award </mark><br>
 **전상훈**, 고병진, 손상혁<br>
 _대한임베디드공학회 추계학술대회, Jeju, Korea, Nov 2015_
 
