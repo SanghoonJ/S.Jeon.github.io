@@ -44,7 +44,7 @@ _IEEE International Conference on Systems, Man, and Cybernetics (SMC), Banff, Ca
 ***
 ### 3. International WiP/Poster/Demo
 
-* **Demo: Automatic Assessment Framework for Range of Motion Test using Wearable Device and Smartphone**<br>
+* **Demo: Automatic Assessment Framework for Range of Motion Test using Wearable Device and Smartphone** <mark style='background-color: #fff5b1; font-size: 11pt'> Student Travel Grant </mark><br>
  **Sanghoon Jeon**, Yang-Soo Lee, and Sang Hyuk Son<br>
  _The 17th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys), Seoul, Republic of Korea, June 2019_
 
