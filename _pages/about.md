@@ -10,9 +10,8 @@ redirect_from:
 
 Sanghoon Jeon has received the B.E. degree in electronic engineering from Kyoungpook National University, Republic of Korea in 2012. He received the M.E. and Ph.D. degree from the Department of Information and Communication Engineering, DGIST, Republic of Korea in 2014 and 2020, respectively. From Mar. 2020, I am currently a Postdoctoral Research Fellow from the department of Emergency Medicine, College of Medicine, Hanyang University, Seoul, Republic of Korea. My research mainly focuses on developing healthcare applications using Wearable Computing and Cyber Physical Systems.
 
-
 ## Research Interests
-Wearable Computing, Human Computer Interface, Healthcare & IoT Applications, Embedded Systems, and Cyber-Physical Systems
+Wearable Computing, Edge Computing, Artificial Intelligence of Things, Embedded Systems, and Cyber-Physical Systems.
 
 ## Education
 _2014/03 - 2020/08_
