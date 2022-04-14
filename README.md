@@ -1,4 +1,4 @@
-# My Memo
+# Homepage
 
 ## Left menu
  - SanghoonJ.github.io/_config.yml
