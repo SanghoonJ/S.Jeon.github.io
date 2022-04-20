@@ -10,11 +10,6 @@ author_profile: false
 
 ### 1. International Journal
 
-* **Machine learning model development and validation for predicting outcome in stage 4 solid cancer patients with septic shock visiting the emergency department: A multi-center, prospective cohort study** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
-Byuk Sung Ko, **Sanghoon Jeon**, Sung-Hyuk Choi, Tae Gun Shin, You Hwan Jo, Seung Mok Ryoo, Youn-Jung Kim, Yoo Seok Park, Woon Yong Kwon, Gil Joon Suh, Tae Ho Lim, Won Young Kim<br>
-_Scientific Reports, Revision, 2022_
-
-
 * **IoT-based Architecture and Implementation for Automatic Shock Treatment** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
 Namhwa Lee, Youngjae Kim, Minsu Jeong, Jisoo Shin, Inwhee Joe, **Sanghoon Jeon**, Byuk Sung Ko<br>
 _KSII Transactions on Internet and Information Systems, Revision, 2022_
