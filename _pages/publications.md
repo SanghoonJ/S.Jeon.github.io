@@ -11,6 +11,10 @@ author_profile: false
 ### 1. International Journal
 
 * **IoT-based Architecture and Implementation for Automatic Shock Treatment** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
+**Sanghoon Jeon**, Byuk Sung Ko, Yang-Soo Lee, and Sang Hyuk Son<br>
+_IEEE Journal OF Biomedical and Health Informatics, Submitted, 2022_
+
+* **IoT-based Architecture and Implementation for Automatic Shock Treatment** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
 Namhwa Lee, Youngjae Kim, Minsu Jeong, Jisoo Shin, Inwhee Joe, **Sanghoon Jeon**, Byuk Sung Ko<br>
 _KSII Transactions on Internet and Information Systems, Revision, 2022_
 
