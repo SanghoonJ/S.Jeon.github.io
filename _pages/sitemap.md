@@ -27,3 +27,4 @@ author_profile: false
   * [ACM SIGCHI Conference Schedule](https://sigchi.org/conferences/upcoming-conferences/)
   * [Research Reality Check](https://sites.google.com/site/jeonggilko/research-reality-check)
   * [Github Markdown Edit](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+  * [Useful Resources for Graduate Students](https://sites.google.com/view/jaymyunghomepage/quick-links/resources-for-graduate-students?authuser=0)
