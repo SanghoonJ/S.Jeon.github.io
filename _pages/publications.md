@@ -20,7 +20,7 @@ _IEEE Journal of Biomedical and Health Informatics, Submitted, 2022_
 
 * **IoT-based Architecture and Implementation for Automatic Shock Treatment** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
 Namhwa Lee, Youngjae Kim, Minsu Jeong, Jisoo Shin, Inwhee Joe, **Sanghoon Jeon**, Byuk Sung Ko<br>
-_KSII Transactions on Internet and Information Systems, Vol.16, No.7, Jul., 2022_
+_KSII Transactions on Internet and Information Systems, vol. 16, no. 7, pp. 2209-2224, 2022_
 
 * **Driving-PASS: A Driving Performance Assessment System for Stroke Drivers using Deep Features**  <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark> <mark style='background-color: #f5f0ff; font-size: 11pt'> <a href="https://doi.org/10.1109/ACCESS.2021.3055870">DOI</a> </mark><br>
 **Sanghoon Jeon**, Joonwoo Son, Myoungouk Park, Byuk Sung Ko, and Sang Hyuk Son<br>
