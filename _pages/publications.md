@@ -18,7 +18,7 @@ _Journal of Clinical Medicine, Submitted, 2022_
 **Sanghoon Jeon**, Byuk Sung Ko, Yang-Soo Lee, and Sang Hyuk Son<br>
 _IEEE Journal of Biomedical and Health Informatics, Submitted, 2022_
 
-* **IoT-based Architecture and Implementation for Automatic Shock Treatment** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
+* **IoT-based Architecture and Implementation for Automatic Shock Treatment** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark> <mark style='background-color: #f5f0ff; font-size: 11pt'> <a href="https://doi.org/10.3837/tiis.2022.07.005">DOI</a> </mark><br>
 Namhwa Lee, Youngjae Kim, Minsu Jeong, Jisoo Shin, Inwhee Joe, **Sanghoon Jeon**, Byuk Sung Ko<br>
 _KSII Transactions on Internet and Information Systems, vol. 16, no. 7, pp. 2209-2224, 2022_
 
