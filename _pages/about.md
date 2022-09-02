@@ -33,7 +33,7 @@ _2022/10~current_
   * **An Assistant Research Professor** from the Department of Emergency Medicine, College of Medicine, Hanyang University, directed by Prof. Byuk Sung Ko
 
 _2020/09~2022/09_
-  * **A Postdoctoral Research Fellow** from the Department of Emergency Medicine, College of Medicine, Hanyang University, directed by Prof. Byuk Sung Ko
+  * A Postdoctoral Research Fellow from the Department of Emergency Medicine, College of Medicine, Hanyang University, directed by Prof. Byuk Sung Ko
   
 _2020/03~2020/08_
   * A Senior Researcher from the Industry-University Cooperation Foundation, Hanyang University
