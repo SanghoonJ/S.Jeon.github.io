@@ -30,16 +30,16 @@ _2006/03 - 2012/02_
 
 ## Professional Experience
 _2022/10~current_
-  * **A Research Assistant Professor** from the Department of Emergency Medicine, College of Medicine, Hanyang University, directed by Prof. Byuk Sung Ko
+  * **A Research Assistant Professor** from the Department of Emergency Medicine, College of Medicine, Hanyang University
 
 _2020/09~2022/09_
-  * A Postdoctoral Research Fellow from the Department of Emergency Medicine, College of Medicine, Hanyang University, directed by Prof. Byuk Sung Ko
+  * A Postdoctoral Research Fellow from the Department of Emergency Medicine, College of Medicine, Hanyang University
   
 _2020/03~2020/08_
   * A Senior Researcher from the Industry-University Cooperation Foundation, Hanyang University
   
 _2015/03 - 2017/08_
-  * A Visiting Student Researcher in HumanLab from DGIST directed by Joonwoo Son
+  * A Visiting Student Researcher in HumanLab from DGIST
 
 ## Scholarships & Awards
   * National Science & Technology Scholarship from National Foundation of Korea in Kyoungpook National University <br>
