@@ -47,6 +47,7 @@ _2015/03 - 2017/08_
   * Best paper award in 대한임베디드공학회 추계학술대회, 2015 
   * MobiSys Student Travel Grant, 2019
   * Runner-up prize, Innovation Awards in Hanyang University, 2020 and 2021
+  * Participation Award, Business Track, 7th Digital Health Hackathon, 2022
 
 ## Affilations
   <img src="/images/hanyang.png" width="60%" height="10%"><br><br>
