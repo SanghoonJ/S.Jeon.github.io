@@ -10,6 +10,10 @@ author_profile: false
 
 ### 1. International Journal
 
+* **ROMI: A Real-time Optical Digit Recognition Embedded System for Monitoring Patients in Intensive Care Units** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
+**Sanghoon Jeon**, Byuk Sung Ko, and Sang Hyuk Son<br>
+_Sensors, Submitted, 2022_
+
 * **Cascade Windows-based Multi-stream Convolutional Neural Networks Framework for Early Detecting In-Sleep Stroke using Wristbands** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
 **Sanghoon Jeon**, Byuk Sung Ko, Yang-Soo Lee, and Sang Hyuk Son<br>
 _Journal of Computational Design and Engineering, Submitted, 2022_
