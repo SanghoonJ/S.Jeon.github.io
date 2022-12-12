@@ -10,7 +10,7 @@ author_profile: false
 
 ### 1. International Journal
 
-* **OLS-Pad: An One-leg Standing Device for Balance Training based on Real-time Sound Feedback using a Pressure Sensor Pad** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
+* **SLS-Pad: An Single-leg Squat Device Toolkits for Balance Training based on Real-time Sound Feedback using a Pressure Sensor Pad** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
 **Sanghoon Jeon**, Yang-Soo Lee, and Sang Hyuk Son<br>
 _Sensors, Editing, 2022_
 
