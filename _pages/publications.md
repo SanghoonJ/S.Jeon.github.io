@@ -13,7 +13,7 @@ author_profile: false
 **Sanghoon Jeon**, and Sang Hyuk Son<br>
 
 * **SLS-Pad: An Single-leg Squat Device Toolkits for Balance Training based on Real-time Sound Feedback using a Pressure Sensor Pad** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
-**Sanghoon Jeon**, Yang-Soo Lee, and Sang Hyuk Son<br>
+**Sanghoon Jeon**, and Yang-Soo Lee<br>
 
 
 ### 1. International Journal
