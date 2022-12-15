@@ -10,10 +10,6 @@ author_profile: false
 
 ### 1. International Journal
 
-* **SLS-Pad: An Single-leg Squat Device Toolkits for Balance Training based on Real-time Sound Feedback using a Pressure Sensor Pad** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
-**Sanghoon Jeon**, Yang-Soo Lee, and Sang Hyuk Son<br>
-_Sensors, Editing, 2022_
-
 * **ROMI: A Real-time Optical Digit Recognition Embedded System for Monitoring Patients in Intensive Care Units** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
 **Sanghoon Jeon**, Byuk Sung Ko, and Sang Hyuk Son<br>
 _Sensors, Submitted, 2022_
@@ -23,7 +19,7 @@ _Sensors, Submitted, 2022_
 _Journal of Computational Design and Engineering, Submitted, 2022_
 
 * **Machine Learning Model Development and Validation for Predicting Outcome in Stage 4 Solid Cancer Patients with Septic Shock Visiting the Emergency Department: A Multi-center, Prospective Cohort Study** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><mark style='background-color: #f5f0ff; font-size: 11pt'> <a href="https://www.mdpi.com/2077-0383/11/23/7231">DOI</a> </mark><br>
-Byuk Sung Ko, **Sanghoon Jeon**, Sung-Hyuk Choi, Tae Gun Shin, You Hwan Jo, Seung Mok Ryoo, YounJung Kim, Yoo Seok Park, Woon Yong Kwon, Gil Joon Suh, Tae Ho Lim, and Won Young Kim<br>
+Byuk Sung Ko, **Sanghoon Jeon**, Donghee Son, Sung-Hyuk Choi, Tae Gun Shin, You Hwan Jo, Seung Mok Ryoo, YounJung Kim, Yoo Seok Park, Woon Yong Kwon, Gil Joon Suh, Tae Ho Lim, and Won Young Kim<br>
 _Journal of Clinical Medicine, accepted, 2022 (SCIE, IF=4.964, Category: Medicine, General & Internal, JCR Ranking  31.686%, 2021)_
 
 * **IoT-based Architecture and Implementation for Automatic Shock Treatment** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark> <mark style='background-color: #f5f0ff; font-size: 11pt'> <a href="https://doi.org/10.3837/tiis.2022.07.005">DOI</a> </mark><br>
