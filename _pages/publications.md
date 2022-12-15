@@ -12,7 +12,7 @@ author_profile: false
 * **Accelerating Deep Learning for Object Characteristics Recognition on NVIDIA Jetson Platforms** <br>
 **Sanghoon Jeon**, and Sang Hyuk Son<br>
 
-* **SLS-Pad: An Single-leg Squat Device Toolkits for Balance Training based on Real-time Sound Feedback using a Pressure Sensor Pad** <br>
+* **SLS-Pad: An Audio-biofeedback based Single-leg Squat Device Toolkits for Balance Training using a Pressure Sensor Pad** <br>
 **Sanghoon Jeon**, and Yang-Soo Lee<br>
 
 
