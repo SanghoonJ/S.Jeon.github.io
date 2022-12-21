@@ -12,7 +12,7 @@ author_profile: false
 * **Accelerating Deep Learning for Object Characteristics Recognition on NVIDIA Jetson Platforms** <br>
 **Sanghoon Jeon**, and Sang Hyuk Son<br>
 
-* **CoPS: A Real-time Center of Pressure Tracking System for Foot and Body by using Multiple Pressure Sensors** <br>
+* **CoPS: A Real-time Multiple Center of Pressure Tracking System for Foot and Body by using Multiple Pressure Sensors** <br>
 **Sanghoon Jeon**, and Yang-Soo Lee<br>
 
 
