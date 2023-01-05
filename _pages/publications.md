@@ -18,13 +18,13 @@ author_profile: false
 
 ### 1. International Journal
 
-* **ROMI: A Real-time Optical Digit Recognition Embedded System for Monitoring Patients in Intensive Care Units** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
-**Sanghoon Jeon**, Byuk Sung Ko, and Sang Hyuk Son<br>
-_Sensors, Submitted, 2022_
-
 * **Cascade Windows-based Multi-stream Convolutional Neural Networks Framework for Early Detecting In-Sleep Stroke using Wristbands** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
 **Sanghoon Jeon**, Byuk Sung Ko, Yang-Soo Lee, and Sang Hyuk Son<br>
-_Journal of Computational Design and Engineering, Submitted, 2022_
+_Journal of Computational Design and Engineering, Revision, 2023_
+
+* **ROMI: A Real-time Optical Digit Recognition Embedded System for Monitoring Patients in Intensive Care Units** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
+**Sanghoon Jeon**, Byuk Sung Ko, and Sang Hyuk Son<br>
+_Sensors, Accepted, 2023_
 
 * **Machine Learning Model Development and Validation for Predicting Outcome in Stage 4 Solid Cancer Patients with Septic Shock Visiting the Emergency Department: A Multi-center, Prospective Cohort Study** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><mark style='background-color: #f5f0ff; font-size: 11pt'> <a href="https://www.mdpi.com/2077-0383/11/23/7231">DOI</a> </mark><br>
 Byuk Sung Ko, **Sanghoon Jeon**, Donghee Son, Sung-Hyuk Choi, Tae Gun Shin, You Hwan Jo, Seung Mok Ryoo, YounJung Kim, Yoo Seok Park, Woon Yong Kwon, Gil Joon Suh, Tae Ho Lim, and Won Young Kim<br>
