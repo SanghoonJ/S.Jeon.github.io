@@ -24,11 +24,11 @@ _Journal of Computational Design and Engineering, Revision, 2023_
 
 * **ROMI: A Real-time Optical Digit Recognition Embedded System for Monitoring Patients in Intensive Care Units** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><mark style='background-color: #f5f0ff; font-size: 11pt'> <a href="https://www.mdpi.com/1424-8220/23/2/638">DOI</a> </mark><br>
 **Sanghoon Jeon**, Byuk Sung Ko, and Sang Hyuk Son<br>
-_Sensors, Accepted, 2023_
+_Sensors, 23(2), 638, 2023 (SCIE, IF=3.847, Category: INSTRUMENTS & INSTRUMENTATION, JCR Ranking 28.906, 2021)_
 
 * **Machine Learning Model Development and Validation for Predicting Outcome in Stage 4 Solid Cancer Patients with Septic Shock Visiting the Emergency Department: A Multi-center, Prospective Cohort Study** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><mark style='background-color: #f5f0ff; font-size: 11pt'> <a href="https://www.mdpi.com/2077-0383/11/23/7231">DOI</a> </mark><br>
 Byuk Sung Ko, **Sanghoon Jeon**, Donghee Son, Sung-Hyuk Choi, Tae Gun Shin, You Hwan Jo, Seung Mok Ryoo, YounJung Kim, Yoo Seok Park, Woon Yong Kwon, Gil Joon Suh, Tae Ho Lim, and Won Young Kim<br>
-_Journal of Clinical Medicine, accepted, 2022 (SCIE, IF=4.964, Category: Medicine, General & Internal, JCR Ranking  31.686%, 2021)_
+_Journal of Clinical Medicine, 11(23), 7231, 2022 (SCIE, IF=4.964, Category: Medicine, General & Internal, JCR Ranking  31.686%, 2021)_
 
 * **IoT-based Architecture and Implementation for Automatic Shock Treatment** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark> <mark style='background-color: #f5f0ff; font-size: 11pt'> <a href="https://doi.org/10.3837/tiis.2022.07.005">DOI</a> </mark><br>
 Namhwa Lee, Youngjae Kim, Minsu Jeong, Jisoo Shin, Inwhee Joe, **Sanghoon Jeon**, Byuk Sung Ko<br>
