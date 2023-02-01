@@ -30,10 +30,10 @@ _2006/03 - 2012/02_
 
 ## Professional Experience
 
-_2022/04~current_
+_2023/04~current_
   * **A Research Assistant Professor** from the Seoul National University Medical Big Data Research Center (MBRC), Seoul National University
 
-_2022/03_
+_2023/03_
   * A Senior Researche from the Seoul National University Medical Big Data Research Center (MBRC), Seoul National University
 
 _2022/10~2023/02_
