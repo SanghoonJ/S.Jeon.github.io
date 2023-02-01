@@ -29,8 +29,15 @@ _2006/03 - 2012/02_
   * Major: Information and Communication Engineering
 
 ## Professional Experience
-_2022/10~current_
-  * **A Research Assistant Professor** from the Department of Medicine, College of Medicine, Hanyang University
+
+_2022/04~current_
+  * **A Research Assistant Professor** from the Seoul National University Medical Big Data Research Center (MBRC), Seoul National University
+
+_2022/03_
+  * A Senior Researche from the Seoul National University Medical Big Data Research Center (MBRC), Seoul National University
+
+_2022/10~2023/02_
+  * A Research Assistant Professor from the Department of Medicine, College of Medicine, Hanyang University
 
 _2020/09~2022/09_
   * A Postdoctoral Research Fellow from the Department of Emergency Medicine, College of Medicine, Hanyang University
