@@ -34,7 +34,7 @@ _2023/04~current_
   * **A Research Assistant Professor** from the Seoul National University Medical Big Data Research Center (MBRC), Seoul National University
 
 _2023/03_
-  * A Senior Researche from the Seoul National University Medical Big Data Research Center (MBRC), Seoul National University
+  * A Senior Researcher from the Seoul National University Medical Big Data Research Center (MBRC), Seoul National University
 
 _2022/10~2023/02_
   * A Research Assistant Professor from the Department of Medicine, College of Medicine, Hanyang University
