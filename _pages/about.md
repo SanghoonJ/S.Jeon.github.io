@@ -57,6 +57,7 @@ _2015/03 - 2017/08_
   * Participation Award in Business Track, 7th Digital Health Hackathon, 2022
 
 ## Affilations
+  <img src="/images/snu_logo.png" width="60%" height="10%"><br><br>
   <img src="/images/hanyang.png" width="60%" height="10%"><br><br>
   <img src="/images/l22.png" width="60%" height="20%"><br><br>
   <img src="/images/l11.png" width="60%" height="20%"><br><br>
