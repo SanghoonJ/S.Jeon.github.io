@@ -30,13 +30,7 @@ _2006/03 - 2012/02_
 
 ## Professional Experience
 
-_2023/04~current_
-  * **Research Assistant Professor** from the Seoul National University Medical Big Data Research Center (MBRC), College of Medicine, Seoul National University
-
-_2023/03_
-  * Senior Researcher from the Seoul National University Medical Big Data Research Center (MBRC), College of Medicine, Seoul National University
-
-_2022/10~2023/02_
+_2022/10~current_
   * Research Assistant Professor from the Department of Medicine, College of Medicine, Hanyang University
 
 _2020/09~2022/09_
@@ -57,7 +51,6 @@ _2015/03 - 2017/08_
   * Participation Award in Business Track, 7th Digital Health Hackathon, 2022
 
 ## Affilations
-  <img src="/images/snu_logo.png" width="60%" height="10%"><br><br>
   <img src="/images/hanyang.png" width="60%" height="10%"><br><br>
   <img src="/images/l22.png" width="60%" height="20%"><br><br>
   <img src="/images/l11.png" width="60%" height="20%"><br><br>
