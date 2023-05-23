@@ -31,7 +31,7 @@ _2006/03 - 2012/02_
 ## Professional Experience
 
 _2022/10~Current_
-  * Research Assistant Professor from the Department of Medicine, College of Medicine, Hanyang University
+  * Research Professor from the Department of Emergency Medicine, College of Medicine, Hanyang University
 
 _2020/09~2022/09_
   * Postdoctoral Research Fellow from the Department of Emergency Medicine, College of Medicine, Hanyang University
