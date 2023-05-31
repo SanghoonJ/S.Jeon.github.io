@@ -10,10 +10,10 @@ author_profile: false
 
 ### In progress
 * **Early Detection of Sepsis With Machine Learning** <br>
-**Sanghoon Jeon** and Sang Hyuk Son<br>
+**Sanghoon Jeon** and Byuk Sung Ko<br>
 
 * **Speeding up Object Characteristics Recognition on NVIDIA Jetson Platforms using GPU Acceleration** <br>
-**Sanghoon Jeon** and Byuk Sung Ko<br>
+**Sanghoon Jeon** and Sang Hyuk Son<br>
 
 * **CoPS: A Real-time Multiple Center of Pressure Tracking System for Feet and Body by using Multiple Pressure Sensors** <br>
 **Sanghoon Jeon**, Yang-Soo Lee, and Sang-Hyuk Son<br>
