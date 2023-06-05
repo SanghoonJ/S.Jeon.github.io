@@ -12,11 +12,11 @@ author_profile: false
 * **Early Detection of Sepsis With Machine Learning** <br>
 **Sanghoon Jeon** and Byuk Sung Ko<br>
 
-* **Accelerating Digit Recognition on NVIDIA Jetson Platforms using GPU Acceleration** <br>
+* **Speeding up Digit Recognition on NVIDIA Jetson Platforms through GPU Acceleration** <br>
 **Sanghoon Jeon** and Sang Hyuk Son<br>
 
 * **CoPS: A Real-time Multiple Center of Pressure Tracking System for Feet and Body by using Multiple Pressure Sensors** <br>
-**Sanghoon Jeon** and Yang-Soo Lee<br>
+**Sanghoon Jeon** and Yang-Soo Lee and Sang Hyuk Son<br>
 
 
 ### 1. International Journal
