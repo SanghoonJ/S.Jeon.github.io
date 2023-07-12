@@ -9,21 +9,21 @@ author_profile: false
 ***
 
 ### In progress
-* **Early Detection of Sepsis With Machine Learning** <br>
-**Sanghoon Jeon** and Byuk Sung Ko<br>
-
-* **Speeding up Digit Recognition on NVIDIA Jetson Platforms through GPU Acceleration** <br>
+* **Selective Classification for Real-time Digit Recognition on NVIDIA Jetson Platforms** <br>
 **Sanghoon Jeon** and Sang Hyuk Son<br>
 
-* **CoPS: A Real-time Multiple Center of Pressure Tracking System for Feet and Body by using Multiple Pressure Sensors** <br>
-**Sanghoon Jeon** and Yang-Soo Lee and Sang Hyuk Son<br>
+* **Interactive SmartPad+SmartInsole** <br>
+**Sanghoon Jeon** and Yang-Soo Lee<br>
+
+* **Early Detection of ECG** <br>
+**Sanghoon Jeon** and Byuk Sung Ko<br>
 
 
 ### 1. International Journal
 
 * **Cascade Windows-based Multi-stream Convolutional Neural Networks Framework for Early Detecting In-Sleep Stroke using Wristbands** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
-**Sanghoon Jeon**, Byuk Sung Ko, Yang-Soo Lee, and Sang Hyuk Son<br>
-_Journal of Computational Design and Engineering, Revision, 2023_
+**Sanghoon Jeon**, Yang-Soo Lee, and Sang Hyuk Son<br>
+_IEEE Access, submitted, 2023_
 
 * **ROMI: A Real-time Optical Digit Recognition Embedded System for Monitoring Patients in Intensive Care Units** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><mark style='background-color: #f5f0ff; font-size: 11pt'> <a href="https://www.mdpi.com/1424-8220/23/2/638">DOI</a> </mark><br>
 **Sanghoon Jeon**, Byuk Sung Ko, and Sang Hyuk Son<br>
