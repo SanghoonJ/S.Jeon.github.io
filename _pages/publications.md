@@ -9,7 +9,7 @@ author_profile: false
 ***
 
 ### In progress
-* **Selective Classification for Real-time Digit Recognition on NVIDIA Jetson Platforms** <br>
+* **Selective Dataset Filtering for Real-time Digit Recognition on NVIDIA Jetson Platforms** <br>
 **Sanghoon Jeon** and Sang Hyuk Son<br>
 
 * **Interactive SmartPad+SmartInsole** <br>
