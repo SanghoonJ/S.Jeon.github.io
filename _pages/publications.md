@@ -23,7 +23,7 @@ author_profile: false
 
 * **Cascade Windows-based Multi-stream Convolutional Neural Networks Framework for Early Detecting In-Sleep Stroke using Wristbands** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><br>
 **Sanghoon Jeon**, Yang-Soo Lee, and Sang Hyuk Son<br>
-_IEEE Access, accepted, 2023_
+_IEEE Access, accepted, 2023 (SCIE, IF=3.9, Category: Engineering, Electrical & Electronic, JCR Ranking 36.2%, 2022)_
 
 * **ROMI: A Real-time Optical Digit Recognition Embedded System for Monitoring Patients in Intensive Care Units** <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark><mark style='background-color: #f5f0ff; font-size: 11pt'> <a href="https://www.mdpi.com/1424-8220/23/2/638">DOI</a> </mark><br>
 **Sanghoon Jeon**, Byuk Sung Ko, and Sang Hyuk Son<br>
