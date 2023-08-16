@@ -12,7 +12,7 @@ author_profile: false
 * **Accelerating Real-time Digit Recognition** <br>
 **Sanghoon Jeon** and Sang Hyuk Son<br>
 
-* **Interactive SmartPad+SmartInsole** <br>
+* **Power Estimation using SmartInsole** <br>
 **Sanghoon Jeon** and Yang-Soo Lee<br>
 
 * **Early Detection of ECG** <br>
