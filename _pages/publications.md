@@ -39,11 +39,11 @@ _KSII Transactions on Internet and Information Systems, vol. 16, no. 7, pp. 2209
 
 * **Driving-PASS: A Driving Performance Assessment System for Stroke Drivers using Deep Features**  <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark> <mark style='background-color: #f5f0ff; font-size: 11pt'> <a href="https://doi.org/10.1109/ACCESS.2021.3055870">DOI</a> </mark><br>
 **Sanghoon Jeon**, Joonwoo Son, Myoungouk Park, Byuk Sung Ko, and Sang Hyuk Son<br>
-_IEEE Access, 9, 21627-21641, 2021 (SCIE, IF=3.745, Category: Computer Science, Information Systems, JCR Ranking  22.115%, 2019)_
+_IEEE Access, vol. 9, pp. 21627-21641, 2021 (SCIE, IF=3.745, Category: Computer Science, Information Systems, JCR Ranking  22.115%, 2019)_
 
 * **A Wearable Sleep Position Tracking System Based on Dynamic State Transition Framework**  <mark style='background-color: #ffdce0; font-size: 11pt'> SCIE Journal </mark> <mark style='background-color: #f5f0ff; font-size: 11pt'> <a href="https://doi.org/10.1109/ACCESS.2019.2942608">DOI</a> </mark><br>
 **Sanghoon Jeon**, Taejoon Park, Anand Paul, Yang-Soo Lee, and Sang Hyuk Son<br>
-_IEEE Access, 7, 135742-135756, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  14.516%, 2018)_
+_IEEE Access, vol. 7, pp. 135742-135756, 2019 (SCIE, IF=4.098, Category: Computer Science, Information Systems, JCR Ranking  14.516%, 2018)_
 
 ***
 ### 2. International Conference/Symposium Proceedings
