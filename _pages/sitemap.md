@@ -22,9 +22,14 @@ author_profile: false
 ***
   * [Journal Information_HanyangU](http://s2journal.bwise.kr/jcr/jcrCategoryRankingPage.do)
   * [Top Conference List](https://drive.google.com/file/d/1TpRuu9OJbrEK5Q0diwBqBukQiK5nFAWm/view?usp=sharing)
-  * [JCR Check](https://jcr.clarivate.com/JCRLandingPageAction.action?Init=Yes&SrcApp=IC2LS&SID=H2-HSqQjRJRMGhx2FRMxx0ldKbpBgeJNipQ9wP-18x2dT013YlVia24eA24DqhpckAx3Dx3D9lyKpyGPe7N1KaDLSabITgx3Dx3D-qBgNuLRjcgZrPm66fhjx2Fmwx3Dx3D-h9tQNJ9Nv4eh45yLvkdX3gx3Dx3D)
+  * [JCR Check](https://jcr.clarivate.com/jcr/home)
   * [Paper Searching](https://starlibrary.org/oa/articles/)
   * [ACM SIGCHI Conference Schedule](https://sigchi.org/conferences/upcoming-conferences/)
   * [Research Reality Check](https://sites.google.com/site/jeonggilko/research-reality-check)
   * [Github Markdown Edit](https://gist.github.com/ihoneymon/652be052a0727ad59601)
   * [Useful Resources for Graduate Students](https://sites.google.com/view/jaymyunghomepage/quick-links/resources-for-graduate-students?authuser=0)
+  * [ML/DL Open Online Course](https://deep-learning-drizzle.github.io/index.html#cvnn)
+  * [Awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation#video-domain-adaptation)
+  * [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM)
+
+
