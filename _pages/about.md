@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Sanghoon Jeon has received the B.E. degree in electronic engineering from Kyoungpook National University, Republic of Korea in 2012. He received the M.E. and Ph.D. degree from the Department of Information and Communication Engineering, DGIST, Republic of Korea in 2014 and 2020, respectively. From Mar. 2020, I am currently an Assistant Professor from the Department of Computer, College of Information Communication Technology, the University of Suwon, Hwaseong-si, Republic of Korea. My research mainly focuses on developing healthcare applications using Wearable Computing and Cyber-Physical Systems.
+Sanghoon Jeon has received the B.E. degree in electronic engineering from Kyoungpook National University, Republic of Korea in 2012. He received the M.E. and Ph.D. degree from the Department of Information and Communication Engineering, DGIST, Republic of Korea in 2014 and 2020, respectively. From Mar. 2020, I am currently an Assistant Professor from the Department of Computer, College of Information Communication Technology, Suwon University, Hwaseong-si, Republic of Korea. My research mainly focuses on developing healthcare applications using Wearable Computing and Cyber-Physical Systems.
 
 ## Research Interests
 Wearable Computing, Edge Computing, Artificial Intelligence of Things, Embedded Systems, and Cyber-Physical Systems.
@@ -31,7 +31,7 @@ _2006/03 - 2012/02_
 ## Professional Experience
 
 _2023/10~Current_
-  * Assistant Professor from the Department of Computer, College of Information Communication Technology, the University of Suwon
+  * Assistant Professor from the Department of Computer, College of Information Communication Technology, Suwon University
    
 _2022/10~2023/09_
   * Research Professor from the Department of Emergency Medicine, College of Medicine, Hanyang University
