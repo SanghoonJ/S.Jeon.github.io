@@ -18,6 +18,10 @@ author_profile: false
 참여역할 : 책임연구원
 
 
+&nbsp;
+
+
+
 ## Hanyang University
 ***
 * 연구과제명 : **적극적 의료중재가 필요한 중증 재가장애인을 위한 ICT 기반 원격돌봄 서비스 및 플랫폼 개발**<br>
