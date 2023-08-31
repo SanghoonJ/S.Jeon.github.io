@@ -31,7 +31,7 @@ _2006/03 - 2012/02_
 ## Professional Experience
 
 _2023/10~Current_
-  * Assistant Professor from the Department of Computer, College of Information Communication Technology, Suwon University
+  * **Assistant Professor** from the Department of Computer, College of Information Communication Technology, Suwon University
    
 _2022/10~2023/09_
   * Research Professor from the Department of Emergency Medicine, College of Medicine, Hanyang University
