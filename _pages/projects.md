@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: false
 ---
 
-## Suwon University
+## The University of Suwon
 ***
 * 연구과제명 : **글로벌 대전환기 대응 미래 재활의 방향모색연구를 통해 도출된 선도적 기술의 개발 및 적용**<br>
 협약기관 : 국립재활원 <br>
